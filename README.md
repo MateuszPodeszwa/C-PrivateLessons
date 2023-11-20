@@ -8,4 +8,4 @@ I am learning C# from different websites such as Codecademy, YouTube and Microso
 1. https://learn.microsoft.com/en-us/users/mateuszpodeszwa/ <br>
 2. https://www.codecademy.com/profiles/MateuszPodeszwa
 
-For more information please contact me in priv.
+For more information please contact me via GitHub.
