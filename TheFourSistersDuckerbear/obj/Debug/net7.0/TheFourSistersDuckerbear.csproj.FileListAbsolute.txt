@@ -1,0 +1,15 @@
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheFourSistersDuckerbear/bin/Debug/net7.0/TheFourSistersDuckerbear
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheFourSistersDuckerbear/bin/Debug/net7.0/TheFourSistersDuckerbear.deps.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheFourSistersDuckerbear/bin/Debug/net7.0/TheFourSistersDuckerbear.runtimeconfig.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheFourSistersDuckerbear/bin/Debug/net7.0/TheFourSistersDuckerbear.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheFourSistersDuckerbear/bin/Debug/net7.0/TheFourSistersDuckerbear.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheFourSistersDuckerbear/obj/Debug/net7.0/TheFourSistersDuckerbear.csproj.AssemblyReference.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheFourSistersDuckerbear/obj/Debug/net7.0/TheFourSistersDuckerbear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheFourSistersDuckerbear/obj/Debug/net7.0/TheFourSistersDuckerbear.AssemblyInfoInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheFourSistersDuckerbear/obj/Debug/net7.0/TheFourSistersDuckerbear.AssemblyInfo.cs
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheFourSistersDuckerbear/obj/Debug/net7.0/TheFourSistersDuckerbear.csproj.CoreCompileInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheFourSistersDuckerbear/obj/Debug/net7.0/TheFourSistersDuckerbear.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheFourSistersDuckerbear/obj/Debug/net7.0/refint/TheFourSistersDuckerbear.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheFourSistersDuckerbear/obj/Debug/net7.0/TheFourSistersDuckerbear.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheFourSistersDuckerbear/obj/Debug/net7.0/TheFourSistersDuckerbear.genruntimeconfig.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheFourSistersDuckerbear/obj/Debug/net7.0/ref/TheFourSistersDuckerbear.dll
