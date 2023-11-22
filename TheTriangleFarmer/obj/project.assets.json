@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheTriangleShop/TheTriangleShop.csproj",
-      "projectName": "TheTriangleShop",
-      "projectPath": "/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheTriangleShop/TheTriangleShop.csproj",
+      "projectUniqueName": "/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheTriangleFarmer/TheTriangleFarmer.csproj",
+      "projectName": "TheTriangleFarmer",
+      "projectPath": "/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheTriangleFarmer/TheTriangleFarmer.csproj",
       "packagesPath": "/Users/mateuszpodeszwa/.nuget/packages/",
-      "outputPath": "/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheTriangleShop/obj/",
+      "outputPath": "/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/TheTriangleFarmer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mateuszpodeszwa/.nuget/NuGet/NuGet.Config"
