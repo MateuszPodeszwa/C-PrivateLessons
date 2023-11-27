@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The_Defense_of_Consolas", "The_Defense_of_Consolas.csproj", "{E3A8F98B-BF36-40C1-9E78-36E4F97D01CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3A8F98B-BF36-40C1-9E78-36E4F97D01CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A8F98B-BF36-40C1-9E78-36E4F97D01CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A8F98B-BF36-40C1-9E78-36E4F97D01CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A8F98B-BF36-40C1-9E78-36E4F97D01CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
