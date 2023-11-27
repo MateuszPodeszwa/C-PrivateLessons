@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a924dcb8-cb72-42df-82c3-1c2f3e5b316a" name="Changes" comment="Program updates">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="a924dcb8-cb72-42df-82c3-1c2f3e5b316a" name="Changes" comment="Some updates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +77,7 @@
       <workItem from="1700661849256" duration="214000" />
       <workItem from="1700664372072" duration="1515000" />
       <workItem from="1701100809854" duration="387000" />
-      <workItem from="1701102420948" duration="477000" />
+      <workItem from="1701102420948" duration="836000" />
     </task>
     <task id="LOCAL-00001" summary="Updated README.md">
       <option name="closed" value="true" />
@@ -121,7 +119,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701102457718</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated README.md with task description.">
+      <option name="closed" value="true" />
+      <created>1701103201989</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701103201989</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Some updates">
+      <option name="closed" value="true" />
+      <created>1701103208914</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701103208914</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +153,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="origin/CSharp_007_TheDefenseConsolas" />
                       </list>
                     </value>
                   </entry>
@@ -157,6 +171,8 @@
     <MESSAGE value="Deleted 'The Foundation of C#' Folder, as it is not necessary in this branch." />
     <MESSAGE value="Created a project solution" />
     <MESSAGE value="Program updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Program updates" />
+    <MESSAGE value="Updated README.md with task description." />
+    <MESSAGE value="Some updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some updates" />
   </component>
 </project>
