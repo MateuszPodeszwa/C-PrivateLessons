@@ -276,13 +276,13 @@ Behind the scenes a new instance of ``System.String`` is created and initialised
 
 If we are talking about text the answer is just one a string. But what about numeric data types? Your choice of a data type can help to set the boundaries for the size of the data you might store in that variable.
 
-For example, if you know a particular variable should only store a number between 1 and 10,000 otherwise it is outside of the boundaries of what would be expected, you will likely avoid **byte** and `sbyte` since their ranges are too low. You wouldn’t also need **int**, **long**, **uint** and `ulong` because they can store more data that is necessary. Likewise, you would probably skip `float`, `double`, and `decimal` if you didn’t need fractional values. You might narrow it down to **short** and `ushort` of which both may be workable.
+For example, if you know a particular variable should only store a number between 1 and 10,000 otherwise it is outside of the boundaries of what would be expected, you will likely avoid `byte` and `sbyte` since their ranges are too low. You wouldn’t also need `int`, `long`, `uint` and `ulong` because they can store more data that is necessary. Likewise, you would probably skip `float`, `double`, and `decimal` if you didn’t need fractional values. You might narrow it down to **short** and `ushort` of which both may be workable.
 
 If you are confident that a negative value would have no meaning in your application you might choose `ushort` _(positive unsigned integer, 0 to 65,535)_. Now any value assigned to a variable `ushort` outside of the boundary of 0 to 65,535 would throw an exception, thereby subtly helping you enforce a degree of sanity checking in your application. 
 
 ## How to choose the correct data type?
 
-	** Fit the data and not to optimise performance **.
+	** Fit the data, and not to optimise performance **.
 
 -  **Choose data type based on the input and output I/O -** In the example of designing an application that calculates of a span of years between to dates. Since the application is a business application, you might determine that you only need a range from 1960 to 2200.
 You might think to try work with `byte` since it can represent numbers between 0 and 255. But, when you look at the built-in methods on the `System.TimeSpan` and `System.DateTime` classes, you realise they mostly accept values of type double and int. If you choose `sbyte` you will constantly be casting back and forth between `sbyte` and double or int. In this case, it might make more sense to choose int if you don’t need sub second precision, and double if you do need sub second precision.

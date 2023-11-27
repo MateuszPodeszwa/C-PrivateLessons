@@ -8,27 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3647c707f39f778c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "01b25f2e61644084",
+            "id": "10cdf0e48a621ad2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Console 2.0 Methods.md",
-                "mode": "preview",
-                "source": true
+                "file": "Console/Console 2.2 Alignment & Formatting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "695b7c68ed1a806d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Console/Console 2.0 Methods.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Console 2.0 Methods.md",
+                "file": "Console/Console 2.2 Alignment & Formatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Console 2.0 Methods.md",
+                "file": "Console/Console 2.2 Alignment & Formatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Console 2.0 Methods.md"
+                "file": "Console/Console 2.2 Alignment & Formatting.md"
               }
             }
           }
@@ -157,11 +160,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "01b25f2e61644084",
+  "active": "10cdf0e48a621ad2",
   "lastOpenFiles": [
-    "The Foundations.md",
+    "Console/Console 2.1 Escape Sequences.md",
+    "Console/Console 2.2 Alignment & Formatting.md",
+    "Console/Console 2.0 Methods.md",
+    "Console.md",
+    "string interpolation.md",
+    "Convert different data types.md",
+    "Convert number to string.md",
     "Types and Literals.md",
-    "Console 2.0 Methods.md",
+    "The Foundations.md",
+    "Console",
     "[The Foundations.md"
   ]
 }

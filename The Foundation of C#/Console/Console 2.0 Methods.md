@@ -12,7 +12,6 @@ Aside for well known `` Console.WriteLine(); `` another method called ``Write`` 
 Console.Write("What is your age?: ");
 string userAge = Console.ReadLine();
 ```
-
 	What is your age?: __
 
 ## ReadKey Method
@@ -91,4 +90,3 @@ Unhandled exception. System.PlatformNotSupportedException: Operation is not supp
    ...
 ```
 
-[Console 2.1 Escape Sequences]
