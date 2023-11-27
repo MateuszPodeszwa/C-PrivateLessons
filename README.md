@@ -6,6 +6,11 @@ Welcome to my C# learning repository! This space is dedicated to testing and sav
 
 The main objective of this repository is to serve as a personal archive of my C# journey, housing the knowledge I acquire along the way. While it's currently a private repository, feel free to explore the code and use it if you find it helpful. Your feedback is highly appreciated!
 
+## Software
+
+To edit any c# project file you will need a proper software, personally I use Visual Studio and JetBrain's Rider for console apps. 
+To edit markdown notes use obsidian app, can be found under the obsidian.md url. It is a free note-taking program that I use. Beside the fact that markdown can be basically open with any IDE, obsidian provides many features and addons that other IDE may not understand and thus the content won't be displayed properly.
+
 ## Contributions
 
 If you come across any issues or improvements in the code, don't hesitate to create a pull request. I value your input, and explaining the changes will not only help me understand but also contribute to the learning experience.
