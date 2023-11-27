@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a924dcb8-cb72-42df-82c3-1c2f3e5b316a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.C-PrivateLessons.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.C-PrivateLessons.dir/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a924dcb8-cb72-42df-82c3-1c2f3e5b316a" name="Changes" comment="Program updates">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +20,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MateuszPodeszwa"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MateuszPodeszwa&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -52,6 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "CSharp__007__TheDefenseConsolas",
+    "last_opened_file_path": "/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,6 +79,7 @@
       <workItem from="1700661849256" duration="214000" />
       <workItem from="1700664372072" duration="1515000" />
       <workItem from="1701100809854" duration="387000" />
+      <workItem from="1701102420948" duration="477000" />
     </task>
     <task id="LOCAL-00001" summary="Updated README.md">
       <option name="closed" value="true" />
@@ -103,7 +105,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701102055118</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created a project solution">
+      <option name="closed" value="true" />
+      <created>1701102442109</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701102442109</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Program updates">
+      <option name="closed" value="true" />
+      <created>1701102457718</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701102457718</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +155,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Updated README.md" />
     <MESSAGE value="Deleted 'The Foundation of C#' Folder, as it is not necessary in this branch." />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted 'The Foundation of C#' Folder, as it is not necessary in this branch." />
+    <MESSAGE value="Created a project solution" />
+    <MESSAGE value="Program updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Program updates" />
   </component>
 </project>
