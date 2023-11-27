@@ -1,0 +1,74 @@
+Index: .idea/.idea.C-PrivateLessons.dir/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"a924dcb8-cb72-42df-82c3-1c2f3e5b316a\" name=\"Changes\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/The Foundation of C#/.obsidian/graph.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/The Foundation of C#/.obsidian/graph.json\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/The Foundation of C#/.obsidian/workspace.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/The Foundation of C#/.obsidian/workspace.json\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/The Foundation of C#/Console 2.0 Methods.md\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/The Foundation of C#/Types and Literals.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/The Foundation of C#/Types and Literals.md\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"CSharp_004_TheVariableShop\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"MetaFilesCheckinStateConfiguration\" checkMetaFiles=\"true\" />\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 0\n}</component>\n  <component name=\"ProjectId\" id=\"2YXB3RP1Bx3LpINizq753XkJiyT\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"git-widget-placeholder\": \"Home-Root\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  },\n  \"keyToStringList\": {\n    \"rider.external.source.directories\": [\n      \"/Users/mateuszpodeszwa/Library/Application Support/JetBrains/Rider2023.2/resharper-host/DecompilerCache\",\n      \"/Users/mateuszpodeszwa/Library/Application Support/JetBrains/Rider2023.2/resharper-host/SourcesCache\",\n      \"/Users/mateuszpodeszwa/.local/share/Symbols/src\"\n    ]\n  }\n}]]></component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"a924dcb8-cb72-42df-82c3-1c2f3e5b316a\" name=\"Changes\" comment=\"\" />\n      <created>1700661845237</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1700661845237</updated>\n      <workItem from=\"1700661849256\" duration=\"214000\" />\n      <workItem from=\"1700664372072\" duration=\"1515000\" />\n      <workItem from=\"1701100809854\" duration=\"387000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Updated README.md\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1700664552370</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1700664552370</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Updated README.md\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1700664757786</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1700664757786</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"UnityCheckinConfiguration\" checkUnsavedScenes=\"true\" />\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"CLEAR_INITIAL_COMMIT_MESSAGE\" value=\"true\" />\n    <MESSAGE value=\"Updated README.md\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Updated README.md\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.C-PrivateLessons.dir/.idea/workspace.xml b/.idea/.idea.C-PrivateLessons.dir/.idea/workspace.xml
+--- a/.idea/.idea.C-PrivateLessons.dir/.idea/workspace.xml	(revision ef23b479d9eb45a6d5c212e32cb46d334047c901)
++++ b/.idea/.idea.C-PrivateLessons.dir/.idea/workspace.xml	(date 1701101512320)
+@@ -4,11 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="a924dcb8-cb72-42df-82c3-1c2f3e5b316a" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/The Foundation of C#/.obsidian/graph.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/The Foundation of C#/.obsidian/workspace.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/The Foundation of C#/Console 2.0 Methods.md" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/The Foundation of C#/Types and Literals.md" beforeDir="false" afterPath="$PROJECT_DIR$/The Foundation of C#/Types and Literals.md" afterDir="false" />
++    <list default="true" id="a924dcb8-cb72-42df-82c3-1c2f3e5b316a" name="Changes" comment="Added some information.">
++      <change beforePath="$PROJECT_DIR$/.idea/.idea.C-PrivateLessons.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.C-PrivateLessons.dir/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -22,6 +19,13 @@
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="GithubProjectSettings">
++    <option name="branchProtectionPatterns">
++      <list>
++        <option value="Home-Root" />
++      </list>
++    </option>
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+@@ -66,7 +70,7 @@
+       <updated>1700661845237</updated>
+       <workItem from="1700661849256" duration="214000" />
+       <workItem from="1700664372072" duration="1515000" />
+-      <workItem from="1701100809854" duration="387000" />
++      <workItem from="1701100809854" duration="702000" />
+     </task>
+     <task id="LOCAL-00001" summary="Updated README.md">
+       <option name="closed" value="true" />
+@@ -84,7 +88,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1700664757786</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="Added some information.">
++      <option name="closed" value="true" />
++      <created>1701101327709</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1701101327709</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -105,6 +117,7 @@
+   <component name="VcsManagerConfiguration">
+     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+     <MESSAGE value="Updated README.md" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md" />
++    <MESSAGE value="Added some information." />
++    <option name="LAST_COMMIT_MESSAGE" value="Added some information." />
+   </component>
+ </project>
+\ No newline at end of file
