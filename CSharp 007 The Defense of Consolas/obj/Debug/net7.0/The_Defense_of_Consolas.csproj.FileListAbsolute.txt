@@ -1,0 +1,15 @@
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/CSharp 007 The Defense of Consolas/bin/Debug/net7.0/The_Defense_of_Consolas
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/CSharp 007 The Defense of Consolas/bin/Debug/net7.0/The_Defense_of_Consolas.deps.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/CSharp 007 The Defense of Consolas/bin/Debug/net7.0/The_Defense_of_Consolas.runtimeconfig.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/CSharp 007 The Defense of Consolas/bin/Debug/net7.0/The_Defense_of_Consolas.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/CSharp 007 The Defense of Consolas/bin/Debug/net7.0/The_Defense_of_Consolas.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/CSharp 007 The Defense of Consolas/obj/Debug/net7.0/The_Defense_of_Consolas.csproj.AssemblyReference.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/CSharp 007 The Defense of Consolas/obj/Debug/net7.0/The_Defense_of_Consolas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/CSharp 007 The Defense of Consolas/obj/Debug/net7.0/The_Defense_of_Consolas.AssemblyInfoInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/CSharp 007 The Defense of Consolas/obj/Debug/net7.0/The_Defense_of_Consolas.AssemblyInfo.cs
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/CSharp 007 The Defense of Consolas/obj/Debug/net7.0/The_Defense_of_Consolas.csproj.CoreCompileInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/CSharp 007 The Defense of Consolas/obj/Debug/net7.0/The_Defense_of_Consolas.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/CSharp 007 The Defense of Consolas/obj/Debug/net7.0/refint/The_Defense_of_Consolas.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/CSharp 007 The Defense of Consolas/obj/Debug/net7.0/The_Defense_of_Consolas.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/CSharp 007 The Defense of Consolas/obj/Debug/net7.0/The_Defense_of_Consolas.genruntimeconfig.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/CSharp 007 The Defense of Consolas/obj/Debug/net7.0/ref/The_Defense_of_Consolas.dll
