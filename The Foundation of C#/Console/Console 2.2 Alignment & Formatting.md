@@ -1,7 +1,6 @@
-#f 
+#Alignment #Formatting 
 
-While [string interpolation](obsidian://open?vault=The%20Foundation%20of%20C%23&file=Console%2FConsole%202.1%20Escape%20Sequences) is powerful, it is only the beginning. Two other features make striing interpolation even better: **alignment** and **formatting**
-
+While [[Console 2.1 Escape Sequences|string interpolation]] is powerful, it is only the beginning. Two other features make string interpolation even better: **alignment** and **formatting**
 # Alignment
 
 Alignment lets user to display a string with a specific preferred width. Blank space is added before the value to reach the desired width if needed. Alignment is useful if you stricture text in a the desired width in the curly braces your expression to evaluate. 

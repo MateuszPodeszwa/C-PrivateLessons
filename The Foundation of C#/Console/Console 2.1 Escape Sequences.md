@@ -1,20 +1,4 @@
-#f
-# Difference between WriteLine and Write.
-
-```c#
-Console.WriteLine("Hello World!");
-```
-
-The Console part is called a class. Classes "own" methods; or you could say that methods live inside of a class. To visit the method, you must know which class it's in. For now, think of a class as a way to represent an object. In this case, all of the methods that operate on your output console are defined inside of the Console class.
-
-There's also a dot (or period) that separates the class name Console and the method name `WriteLine()`. The period is the member access operator. In other words, the dot is how you "navigate" from the class to one of its methods.
-
-The `WriteLine()` part is called a method. You can always spot a method because it has a set of parentheses after it. Each method has one job. The `WriteLine()` method's job is to write a line of data to the output console. The data that's printed is sent in between the opening and closing parenthesis as an input parameter. Some methods need input parameters, while others don't. But if you want to invoke a method, you must always use the parentheses after the method's name. The parentheses are known as the method invocation operator.
-
-To print an entire message to the output console, you need to use the first technique, `Console.WriteLine()`. At the end of the line, it adds a line feed similar to how to create a new line of text by pressing Enter or Return.
-
-To print to the output console, but without adding a line feed at the end, you need to use the second technique, `Console.Write()`. So, the next call to `Console.Write()` prints another message to the same line.
-
+#EscapeSequences #StringConcatenation #StringInterpolation #VerbatimLiterals
 # Escape character sequences.
 
 At times, inserting quotes within a string in C# can cause errors as the language might interpret quotes **“”** as the end of the string, resulting in an error. To prevent this issue, an escape character was introduced. By combining quotes with these symbols, we can signal to the compiler that the quotes are part of the string sequence and not its conclusion.
@@ -74,7 +58,7 @@ Console.WriteLine($@"C:\Output\{**projectName**}\Data");
 C:\Output\First-Project\Data
 ```
 
-In this example, the `$` symbol allows you to reference the **projectName** variable inside the braces, while the `@` symbol allows you to use the unescaped `\` character.
+In this example, the `$` symbol allows you to reference the **projectName** variable inside the braces, while the `@` symbol allows you to use the unescaped `\` character. This approach may be the best for styling both, the code as well as the console output, it also works very well with [[Console 2.2 Alignment & Formatting]] allowing to further format and style the text.
 
 <table align="center"; width="100%">
     <thead>

@@ -4,34 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "99f2f93e7e75aa13",
+        "id": "0922726a1bfef251",
         "type": "tabs",
         "children": [
           {
-            "id": "10cdf0e48a621ad2",
+            "id": "bfd2c195c7cdd4a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Console/Console 2.2 Alignment & Formatting.md",
+                "file": "The Foundations.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "695b7c68ed1a806d",
+            "id": "3f1a88dbad27f7e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Console/Console 2.0 Methods.md",
+                "file": "Decision Making/Relational Operators.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "963d722e6fbb028a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,14 +106,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Console/Console 2.2 Alignment & Formatting.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Decision Making/Relational Operators.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -114,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Console/Console 2.2 Alignment & Formatting.md",
+                "file": "Decision Making/Relational Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -137,12 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Console/Console 2.2 Alignment & Formatting.md"
+                "file": "Decision Making/Relational Operators.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,18 +169,32 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "10cdf0e48a621ad2",
+  "active": "3f1a88dbad27f7e1",
   "lastOpenFiles": [
+    "Decision Making/Relational Operators.md",
+    "Decision Making/ELSE Statements/The IF Statement.md",
+    "Data Types/Convert different data types.md",
+    "Data Types/Bool.md",
+    "Data Types/Convert number to string.md",
+    "Data Types/Types and Literals.md",
+    "The Foundations.md",
+    "Console/Console 2.0 Methods.md",
     "Console/Console 2.1 Escape Sequences.md",
     "Console/Console 2.2 Alignment & Formatting.md",
-    "Console/Console 2.0 Methods.md",
+    "Decision Making/ELSE Statements/The ELSE IF Statement.md",
+    "Decision Making/ELSE Statements/The ELSE Statement.md",
+    "Untitled.canvas",
+    "Decision Making/ELSE Statements",
+    "[[Console.md",
+    "(de)Console 2.0 Methods.md",
     "Console.md",
-    "string interpolation.md",
-    "Convert different data types.md",
-    "Convert number to string.md",
-    "Types and Literals.md",
-    "The Foundations.md",
+    "[Console.md",
+    "Decision Making",
+    "Data Types",
     "Console",
+    "Data Types",
+    "2023-11-27.md",
+    "string interpolation.md",
     "[The Foundations.md"
   ]
 }

@@ -1,4 +1,4 @@
-###### #introduction #csharp #basics #DOTNET
+#Console #WriteLine #ReadKey #BackgroundColor #ForegroundColor #Clear #Title #Beep #Write
 # The Console Class
 
 C# language allows us to change and play with console basic styles and make it even more entertaining than GUI.
@@ -14,6 +14,21 @@ string userAge = Console.ReadLine();
 ```
 	What is your age?: __
 
+### Difference between WriteLine and Write.
+
+```c#
+Console.WriteLine("Hello World!");
+```
+
+The Console part is called a class. Classes "own" methods; or you could say that methods live inside of a class. To visit the method, you must know which class it's in. For now, think of a class as a way to represent an object. In this case, all of the methods that operate on your output console are defined inside of the Console class.
+
+There's also a dot (or period) that separates the class name Console and the method name `WriteLine()`. The period is the member access operator. In other words, the dot is how you "navigate" from the class to one of its methods.
+
+The `WriteLine()` part is called a method. You can always spot a method because it has a set of parentheses after it. Each method has one job. The `WriteLine()` method's job is to write a line of data to the output console. The data that's printed is sent in between the opening and closing parenthesis as an input parameter. Some methods need input parameters, while others don't. But if you want to invoke a method, you must always use the parentheses after the method's name. The parentheses are known as the method invocation operator.
+
+To print an entire message to the output console, you need to use the first technique, `Console.WriteLine()`. At the end of the line, it adds a line feed similar to how to create a new line of text by pressing Enter or Return.
+
+To print to the output console, but without adding a line feed at the end, you need to use the second technique, `Console.Write()`. So, the next call to `Console.Write()` prints another message to the same line.
 ## ReadKey Method
 
 The ``Console.ReadKey();`` method does not wait the user to push enter before completing. it waits for only a single keypress, so if you want to do something like "*Press any key to continue..*" this method will be good to use.
@@ -45,6 +60,8 @@ After assigning new values into these two variables: `BackgroundColor` and `Fore
 Therefore based on above response we understand that:
 - The `BackgroundColor` property will: change the background colour, we can use any colour as long as it is part of the `ConsoleColor` collection.
 - The logic is the same as above, a `ForegroundColor` property will: change the text colour to Black.
+
+This is one of the ways to improve aesthetics of the console view, another approach can be to style the text [[Console 2.1 Escape Sequences]].
 
 ## Clear Method
 
