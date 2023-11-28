@@ -1,35 +1,17 @@
-# C# Learning Repository
+# Chellenge: Repairing the clocktower
+This is a chellenge from a book about c# I am reading. I decideed to save my results in this repo to make it easier 
+for other people to that read the same book.
 
-Welcome to my C# learning repository! This space is dedicated to testing and saving code snippets and programs as I navigate through the fascinating world of C# and .NET frameworks.
+## Description
 
-## Purpose
+The recent attacks damaged the great Clock-tower of Consolas. The citizens of Consolas have repaired most of it, 
+except oe piece that requires the steady hand of a Programmer. It is the part that makes the clock tick and tock. 
+Numbers flow the clock to make it go, and if the number is even, the clock's Pendulum should tick to the left; if 
+the number is odd, the pendulum should tock to the right. Only a programmer canreate this critical clock element to 
+make it work again.
 
-The main objective of this repository is to serve as a personal archive of my C# journey, housing the knowledge I acquire along the way. While it's currently a private repository, feel free to explore the code and use it if you find it helpful. Your feedback is highly appreciated!
+## Objectives
 
-## Software
-
-To edit any c# project file you will need a proper software, personally I use Visual Studio and JetBrain's Rider for console apps. 
-To edit markdown notes use obsidian app, can be found under the obsidian.md url. It is a free note-taking program that I use. Beside the fact that markdown can be basically open with any IDE, obsidian provides many features and addons that other IDE may not understand and thus the content won't be displayed properly.
-
-## Contributions
-
-If you come across any issues or improvements in the code, don't hesitate to create a pull request. I value your input, and explaining the changes will not only help me understand but also contribute to the learning experience.
-
-## Portfolio
-
-This repository will eventually transform into a portfolio, showcasing my growing proficiency in C#. I look forward to sharing my progress and the skills I've honed through various projects.
-
-## Learning Resources
-
-I'm actively learning C# from different platforms, including:
-- [Microsoft Learn](https://learn.microsoft.com/en-us/users/mateuszpodeszwa/)
-- [Codecademy](https://www.codecademy.com/profiles/MateuszPodeszwa)
-- YouTube
-
-Feel free to check out my profiles on these platforms to track my progress!
-
-## Contact
-
-For more information or to get in touch, feel free to reach out via [GitHub](https://github.com/MateuszPodeszwa).
-
-Happy coding!
+- Take a number as inout from the console.
+- Display the word "Tick" if the number is even.
+- Display the word "Tock" if the number is odd.
