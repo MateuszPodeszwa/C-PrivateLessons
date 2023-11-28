@@ -1,0 +1,15 @@
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Repairing The Clocktower/bin/Debug/net7.0/RepairingTheClocktower
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Repairing The Clocktower/bin/Debug/net7.0/RepairingTheClocktower.deps.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Repairing The Clocktower/bin/Debug/net7.0/RepairingTheClocktower.runtimeconfig.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Repairing The Clocktower/bin/Debug/net7.0/RepairingTheClocktower.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Repairing The Clocktower/bin/Debug/net7.0/RepairingTheClocktower.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Repairing The Clocktower/obj/Debug/net7.0/RepairingTheClocktower.csproj.AssemblyReference.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Repairing The Clocktower/obj/Debug/net7.0/RepairingTheClocktower.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Repairing The Clocktower/obj/Debug/net7.0/RepairingTheClocktower.AssemblyInfoInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Repairing The Clocktower/obj/Debug/net7.0/RepairingTheClocktower.AssemblyInfo.cs
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Repairing The Clocktower/obj/Debug/net7.0/RepairingTheClocktower.csproj.CoreCompileInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Repairing The Clocktower/obj/Debug/net7.0/RepairingTheClocktower.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Repairing The Clocktower/obj/Debug/net7.0/refint/RepairingTheClocktower.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Repairing The Clocktower/obj/Debug/net7.0/RepairingTheClocktower.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Repairing The Clocktower/obj/Debug/net7.0/RepairingTheClocktower.genruntimeconfig.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Repairing The Clocktower/obj/Debug/net7.0/ref/RepairingTheClocktower.dll

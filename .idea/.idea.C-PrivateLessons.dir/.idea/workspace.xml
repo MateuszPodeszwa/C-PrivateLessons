@@ -4,7 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a924dcb8-cb72-42df-82c3-1c2f3e5b316a" name="Changes" comment="Some Updates" />
+    <list default="true" id="a924dcb8-cb72-42df-82c3-1c2f3e5b316a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.C-PrivateLessons.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.C-PrivateLessons.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.idea/The Foundation of C#.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/appearance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/community-plugins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/core-plugins-migration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/core-plugins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/graph.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/hotkeys.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/better-word-count/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/better-word-count/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/better-word-count/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/dataview/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/dataview/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/dataview/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/obsidian-charts/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/obsidian-charts/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/obsidian-charts/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/obsidian-icon-folder/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/obsidian-icon-folder/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/obsidian-icon-folder/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/obsidian-icon-folder/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/obsidian-latex-environments/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/obsidian-latex-environments/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/obsidian-pretty-bibtex/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/obsidian-pretty-bibtex/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/obsidian-pretty-bibtex/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/obsidian-zotero-desktop-connector/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/obsidian-zotero-desktop-connector/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/plugins/obsidian-zotero-desktop-connector/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/.obsidian/workspace.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/Console/Console 2.0 Methods.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/Console/Console 2.1 Escape Sequences.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/Console/Console 2.2 Alignment &amp; Formatting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/Data Types/Bool.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/Data Types/Convert different data types.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/Data Types/Convert number to string.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/Data Types/Types and Literals.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/Decision Making/ELSE Statements/The ELSE IF Statement.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/Decision Making/ELSE Statements/The ELSE Statement.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/Decision Making/ELSE Statements/The IF Statement.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/Decision Making/Relational Operators.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/The Foundations.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The Foundation of C#/Untitled.canvas" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +61,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="CSharp_007_TheDefenseConsolas" />
+        <entry key="$PROJECT_DIR$" value="Home-Root" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,27 +92,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Home-Root&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "CSharp__008__RepairingTheClocktower",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;/Users/mateuszpodeszwa/Library/Application Support/JetBrains/Rider2023.2/resharper-host/DecompilerCache&quot;,
-      &quot;/Users/mateuszpodeszwa/Library/Application Support/JetBrains/Rider2023.2/resharper-host/SourcesCache&quot;,
-      &quot;/Users/mateuszpodeszwa/.local/share/Symbols/src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/mateuszpodeszwa/Library/Application Support/JetBrains/Rider2023.2/resharper-host/DecompilerCache",
+      "/Users/mateuszpodeszwa/Library/Application Support/JetBrains/Rider2023.2/resharper-host/SourcesCache",
+      "/Users/mateuszpodeszwa/.local/share/Symbols/src"
     ]
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,7 +124,7 @@
       <workItem from="1700661849256" duration="214000" />
       <workItem from="1700664372072" duration="1515000" />
       <workItem from="1701100809854" duration="387000" />
-      <workItem from="1701205846526" duration="321000" />
+      <workItem from="1701205846526" duration="1671000" />
     </task>
     <task id="LOCAL-00001" summary="Updated README.md">
       <option name="closed" value="true" />
@@ -102,7 +150,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701206092949</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added more information">
+      <option name="closed" value="true" />
+      <created>1701206661856</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701206661856</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added task's description.">
+      <option name="closed" value="true" />
+      <created>1701207300708</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701207300708</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +188,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Updated README.md" />
     <MESSAGE value="Some Updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some Updates" />
+    <MESSAGE value="Added more information" />
+    <MESSAGE value="Added task's description." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added task's description." />
   </component>
 </project>
