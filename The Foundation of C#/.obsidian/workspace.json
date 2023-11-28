@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decision Making/Relational Operators.md",
+                "file": "Decision Making/ELSE Statements/The IF Statement.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decision Making/Relational Operators.md",
+                "file": "Decision Making/ELSE Statements/The IF Statement.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decision Making/Relational Operators.md",
+                "file": "Decision Making/ELSE Statements/The IF Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decision Making/Relational Operators.md"
+                "file": "Decision Making/ELSE Statements/The IF Statement.md"
               }
             }
           }
@@ -171,6 +171,8 @@
   },
   "active": "3f1a88dbad27f7e1",
   "lastOpenFiles": [
+    "Decision Making/ELSE Statements/The ELSE Statement.md",
+    "Decision Making/ELSE Statements/The ELSE IF Statement.md",
     "Decision Making/Relational Operators.md",
     "Decision Making/ELSE Statements/The IF Statement.md",
     "Data Types/Convert different data types.md",
@@ -181,8 +183,6 @@
     "Console/Console 2.0 Methods.md",
     "Console/Console 2.1 Escape Sequences.md",
     "Console/Console 2.2 Alignment & Formatting.md",
-    "Decision Making/ELSE Statements/The ELSE IF Statement.md",
-    "Decision Making/ELSE Statements/The ELSE Statement.md",
     "Untitled.canvas",
     "Decision Making/ELSE Statements",
     "[[Console.md",
