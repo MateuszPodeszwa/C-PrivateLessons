@@ -9,7 +9,7 @@ The ternary operator allows for a compact syntax in the case of binary decisions
 
 The ternary operator should be always assigned to a variable, just like: `variable = condition expression ? expression if true : expression if false`. As you noticed to create a conditional expression the `?` and `:` symbol has been used.
 The first a question mark symbol divides the area between conditional expression and true/false. And the double dot symbol divides area between true and false expressions. 
-
+``
 ```c#
 string textToDisplay = score > 50 ? "You Pass" : "Nope, Nope, Nope";
 Console.WriteLine(textToDisplay);
