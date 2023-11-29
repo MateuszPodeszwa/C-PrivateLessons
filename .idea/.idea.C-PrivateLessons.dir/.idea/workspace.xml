@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a924dcb8-cb72-42df-82c3-1c2f3e5b316a" name="Changes" comment="Update Notes">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="a924dcb8-cb72-42df-82c3-1c2f3e5b316a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="CSharp_007_TheDefenseConsolas" />
+        <entry key="$PROJECT_DIR$" value="Home-Root" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,7 +56,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Merging Home-Root",
+    "git-widget-placeholder": "CSharp__009__Watchtower",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -86,7 +84,7 @@
       <workItem from="1700664372072" duration="1515000" />
       <workItem from="1701100809854" duration="387000" />
       <workItem from="1701205846526" duration="321000" />
-      <workItem from="1701267642835" duration="411000" />
+      <workItem from="1701267642835" duration="1385000" />
     </task>
     <task id="LOCAL-00001" summary="Updated README.md">
       <option name="closed" value="true" />
@@ -120,7 +118,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701267850699</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added task to README.md">
+      <option name="closed" value="true" />
+      <created>1701268833345</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701268833345</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed typo">
+      <option name="closed" value="true" />
+      <created>1701268911454</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701268911454</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +157,8 @@
     <MESSAGE value="Updated README.md" />
     <MESSAGE value="Some Updates" />
     <MESSAGE value="Update Notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Notes" />
+    <MESSAGE value="Added task to README.md" />
+    <MESSAGE value="Fixed typo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed typo" />
   </component>
 </project>
