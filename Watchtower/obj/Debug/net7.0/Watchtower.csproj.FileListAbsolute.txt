@@ -1,0 +1,15 @@
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Watchtower/bin/Debug/net7.0/Watchtower
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Watchtower/bin/Debug/net7.0/Watchtower.deps.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Watchtower/bin/Debug/net7.0/Watchtower.runtimeconfig.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Watchtower/bin/Debug/net7.0/Watchtower.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Watchtower/bin/Debug/net7.0/Watchtower.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Watchtower/obj/Debug/net7.0/Watchtower.csproj.AssemblyReference.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Watchtower/obj/Debug/net7.0/Watchtower.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Watchtower/obj/Debug/net7.0/Watchtower.AssemblyInfoInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Watchtower/obj/Debug/net7.0/Watchtower.AssemblyInfo.cs
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Watchtower/obj/Debug/net7.0/Watchtower.csproj.CoreCompileInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Watchtower/obj/Debug/net7.0/Watchtower.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Watchtower/obj/Debug/net7.0/refint/Watchtower.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Watchtower/obj/Debug/net7.0/Watchtower.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Watchtower/obj/Debug/net7.0/Watchtower.genruntimeconfig.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/Watchtower/obj/Debug/net7.0/ref/Watchtower.dll
