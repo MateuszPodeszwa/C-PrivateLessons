@@ -14,6 +14,6 @@ else
 }
 ```
 
-When this code runs, if the score is exactly 100, the statement after the `if` executes. In all other cases, the statement after the `else` executes. You can also wrap an `else` around the block statement.
+When this code runs, if the score is exactly 100, the statement after the `if` executes. In all other cases, the statement after the `else` executes. You can also wrap an `else` around the block statement. 
 
-In addition to `else statement` there also is a [[The ELSE IF Statement]].
+In addition to `else statement` there also is a [[The ELSE IF Statement]]<br>

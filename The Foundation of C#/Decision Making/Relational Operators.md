@@ -48,6 +48,26 @@ There are also the _greater than_ or _less than_ operators as many, many others.
     <td align="center"><</td>
     <td>Validate if the value us less than  other value</td>
   </tr>
+   <tr>
+    <td>Conditional OR</td>
+    <td align="center">||</td>
+    <td>If the first value is true then set the whole expression to true, if not check the second expression, if it is true then set whole expression to true.</td>
+  </tr>
+  <tr>
+    <td>Bitwise AND</td>
+    <td align="center">&</td>
+    <td>`&` is the bitwise AND operator. For operands of integer types, it'll calculate the bitwise-AND of the operands and the result will be an integer type. For boolean operands, it'll compute the logical-and of operands. `&&` is the logical AND operator and doesn't work on integer types. For boolean types, where both of them can be applied, the difference is in the "short-circuiting" property of `&&`. If the first operand of `&&` evaluates to `false`, the second is not evaluated at all. This is not the case for `&`:</td>
+  </tr>
+  <tr>
+    <td>Conditional AND</td>
+    <td align="center">&&</td>
+    <td>If the first expression is true then checks the second expression, if both are true then set the whole expression to true.</td>
+  </tr>
+  <tr>
+    <td>The NOT Operator</td>
+    <td align="center">!=</td>
+    <td>Make true a false, if NOT 1 + 1 = 2 then it sets the value to false instead of true.</td>
+  </tr>
   <tr>
     <td>Modulus</td>
     <td align="center">%</td>
@@ -132,4 +152,29 @@ if (levelComplete)
 	Console.WriteLine("You Pass!");
 ```
 
-The above code make also a good use of relational operators such as `>=` _equal or bigger than_ in a bool expression, if the condition is meet than the bool turns `true`. The above code is not only smaller but also easier to understand.
+The above code make also a good use of relational operators such as `>=` _equal or bigger than_ in a bool expression, if the condition is meet than the bool turns `true`. The above code is not only smaller but also easier to understand. But what if we connect logical operators with bool type? For example, the first of these is the `not` operator `!`. This operator takes a single thing as inout and produces the Boolean opposite: `true` becomes `false` and vice versa. 
+
+```c#
+bool levelComplete = score >= pointsNeedToPass;
+
+if (!levelComplete)
+	Console.WriteLine("Level Completed");
+```
+
+The if statement in the above code checks if the `levelComplete` variable is false. Normally it would check the variable `true`value, but because of the operator `not` it does the opposite. The other two operators are used more often together to create a complex if statements. The `and` operator `&&` and the `or` operator `||`. These two operators allow you to combine two `bool` expressions into a compound expression. 
+- For `&&` the expression is true if both sub-expression are also true.
+- For `||` the expression is true if one of the sub-expression is true, it is also true if both are true. It does not matter which one is, as long is it is, it will be true. One important fact: If the first expression is true, the compiler won't check the other sub-expression.
+
+```c#
+if (50 <= 0 && 20 <= 0)
+	Console.WriteLine();
+```
+
+The code will execute `Console.WriteLine` only when both conditions `50 <= 0 && 20 <= 0)` will be true. It can be read as; "_if 50 is lower or equal to 0 AND 20 is lover and equal to 0 THEN DO writeline"_. The `||` is similar, but if either sub-expression is true, the whole expression is true. 
+
+```c#
+if (50 > 0 || armor > 0)
+	Console.WriteLine();
+```
+
+This code can be read as: _"if 50 is more than 0 THEN writeline OR if armor is more than 0 THEN writeline"_. These expressions can be mixed together to create much complex one.

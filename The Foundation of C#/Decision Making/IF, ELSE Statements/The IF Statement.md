@@ -103,3 +103,27 @@ To make the `if` more useful, you can use the `else` statement.
 ![[The ELSE Statement]]
 
 What is worth to note is that `if` statement allows yo to use any of [[Relational Operators|C# Operators]] as well as [[Relational Operators#Using a bool type in decision making|Bool data type]]. 
+
+# Nesting IF Statements
+
+An `if` statement is just another statement, therefore it can be nested. That means you can put an `if` inside of another `if`. Doing so is called _nesting_, for example:
+
+```c#
+if (x = true)
+{
+	if (x - 1 = false)
+	{
+		Console.WriteLine("false");
+	}
+	else
+	{
+		Console.WriteLine("true");
+	}
+}
+else
+{
+	Console.WriteLine("Try again");
+}
+```
+
+The logic of this nested if statements doesn't change, it still works as single if. The above code check if `x = true` if it is then checks if `x - 1 = false` if true then it prints out `false`. If not it will execute the `else` condition.

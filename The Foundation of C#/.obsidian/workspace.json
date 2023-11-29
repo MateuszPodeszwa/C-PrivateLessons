@@ -8,39 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bfd2c195c7cdd4a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Foundations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f1a88dbad27f7e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Decision Making/ELSE Statements/The IF Statement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "963d722e6fbb028a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "df2f4a2a9383b4e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Decision Making/IF, ELSE Statements/The IF Statement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66afb07b698ebd57",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": -0.7759514617919921
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decision Making/ELSE Statements/The IF Statement.md",
+                "file": "Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decision Making/ELSE Statements/The IF Statement.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decision Making/ELSE Statements/The IF Statement.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -169,22 +172,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3f1a88dbad27f7e1",
+  "active": "66afb07b698ebd57",
   "lastOpenFiles": [
-    "Decision Making/ELSE Statements/The ELSE Statement.md",
-    "Decision Making/ELSE Statements/The ELSE IF Statement.md",
+    "Console/Console 2.2 Alignment & Formatting.md",
+    "Console/Console 2.1 Escape Sequences.md",
+    "Console/Console 2.0 Methods.md",
     "Decision Making/Relational Operators.md",
-    "Decision Making/ELSE Statements/The IF Statement.md",
+    "Decision Making/Ternary Operator.md",
+    "Decision Making/IF, ELSE Statements/The IF Statement.md",
+    "Decision Making/IF, ELSE Statements/The ELSE Statement.md",
+    "Decision Making/IF, ELSE Statements/The ELSE IF Statement.md",
+    "The Foundations.md",
     "Data Types/Convert different data types.md",
     "Data Types/Bool.md",
     "Data Types/Convert number to string.md",
     "Data Types/Types and Literals.md",
-    "The Foundations.md",
-    "Console/Console 2.0 Methods.md",
-    "Console/Console 2.1 Escape Sequences.md",
-    "Console/Console 2.2 Alignment & Formatting.md",
     "Untitled.canvas",
-    "Decision Making/ELSE Statements",
+    "Decision Making/IF, ELSE Statements",
     "[[Console.md",
     "(de)Console 2.0 Methods.md",
     "Console.md",
