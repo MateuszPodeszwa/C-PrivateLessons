@@ -1,0 +1,15 @@
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/BuyingInventory/bin/Debug/net7.0/Buying Inventory
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/BuyingInventory/bin/Debug/net7.0/Buying Inventory.deps.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/BuyingInventory/bin/Debug/net7.0/Buying Inventory.runtimeconfig.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/BuyingInventory/bin/Debug/net7.0/Buying Inventory.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/BuyingInventory/bin/Debug/net7.0/Buying Inventory.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/BuyingInventory/obj/Debug/net7.0/Buying Inventory.csproj.AssemblyReference.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/BuyingInventory/obj/Debug/net7.0/Buying Inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/BuyingInventory/obj/Debug/net7.0/Buying Inventory.AssemblyInfoInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/BuyingInventory/obj/Debug/net7.0/Buying Inventory.AssemblyInfo.cs
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/BuyingInventory/obj/Debug/net7.0/Buying Inventory.csproj.CoreCompileInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/BuyingInventory/obj/Debug/net7.0/Buying Inventory.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/BuyingInventory/obj/Debug/net7.0/refint/Buying Inventory.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/BuyingInventory/obj/Debug/net7.0/Buying Inventory.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/BuyingInventory/obj/Debug/net7.0/Buying Inventory.genruntimeconfig.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/BuyingInventory/obj/Debug/net7.0/ref/Buying Inventory.dll
