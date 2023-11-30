@@ -1,35 +1,19 @@
-# C# Learning Repository
+# Challenge Buying Inventory
 
-Welcome to my C# learning repository! This space is dedicated to testing and saving code snippets and programs as I navigate through the fascinating world of C# and .NET frameworks.
-
-## Purpose
-
-The main objective of this repository is to serve as a personal archive of my C# journey, housing the knowledge I acquire along the way. While it's currently a private repository, feel free to explore the code and use it if you find it helpful. Your feedback is highly appreciated!
-
-## Software
-
-To edit any c# project file you will need a proper software, personally I use Visual Studio and JetBrain's Rider for console apps. 
-To edit markdown notes use obsidian app, can be found under the obsidian.md url. It is a free note-taking program that I use. Beside the fact that markdown can be basically open with any IDE, obsidian provides many features and addons that other IDE may not understand and thus the content won't be displayed properly.
-
-## Contributions
-
-If you come across any issues or improvements in the code, don't hesitate to create a pull request. I value your input, and explaining the changes will not only help me understand but also contribute to the learning experience.
-
-## Portfolio
-
-This repository will eventually transform into a portfolio, showcasing my growing proficiency in C#. I look forward to sharing my progress and the skills I've honed through various projects.
-
-## Learning Resources
-
-I'm actively learning C# from different platforms, including:
-- [Microsoft Learn](https://learn.microsoft.com/en-us/users/mateuszpodeszwa/)
-- [Codecademy](https://www.codecademy.com/profiles/MateuszPodeszwa)
-- YouTube
-
-Feel free to check out my profiles on these platforms to track my progress!
-
-## Contact
-
-For more information or to get in touch, feel free to reach out via [GitHub](https://github.com/MateuszPodeszwa).
-
-Happy coding!
+(It Is time to resupply. A nearby outfitter shop has the supples you need but is so disorganised that they cannot sell things to you. "Can't sell If I can't find the price list,"Tortuga, the owner, tells you as he turns over and attempts to go back to sleep in his reclining chair in the corner, There's a simple solution: use your programming powers to build something to report the prices of various pieces of equipment, based on the user's selection:
+The following items are available:
+1.     Rope
+2.     Torches
+3.     Climbing Equipment
+4.     Clean Water
+5.     Machete
+6.     Canoe
+7.     Food Supplies
+What number do you want to see the price of? 2
+Torches cost 15 gold.
+You search around the shop and find ledgers that show the following prices for these items: Rope: 10 gold, Food Supplies: 1 gold.
+gold, Torches: 15 gold, Climbing Equipment: 25 gold, Clean Water: 1 gold, Machete: 20 gold, Canoe: 200
+## Objectives:
+*   Build a program that will show the menu illustrated above.
+*   Ask the user to enter a number from the menu.
+*   Using the information above, use a switch (either type) to show the Item's cost.
