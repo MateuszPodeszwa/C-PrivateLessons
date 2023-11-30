@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a924dcb8-cb72-42df-82c3-1c2f3e5b316a" name="Changes" comment="Update Notes">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuyingInventory/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BuyingInventory/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Merging Home-Root",
+    "git-widget-placeholder": "CSharp__010__BuyingInventory",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -87,6 +87,7 @@
       <workItem from="1701100809854" duration="387000" />
       <workItem from="1701205846526" duration="321000" />
       <workItem from="1701267642835" duration="411000" />
+      <workItem from="1701360232312" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="Updated README.md">
       <option name="closed" value="true" />
