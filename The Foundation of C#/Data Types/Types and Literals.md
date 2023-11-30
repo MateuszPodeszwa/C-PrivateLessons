@@ -1,4 +1,4 @@
-#introduction #csharp #basics #DOTNET
+#Types #DataType #IntegralTypes #Binary #Hexadecimal
 # What is a 'type'?
 <br>C# provides a standard set of built-in types. These represent **integers, floating point values, Boolean expressions, text characters, decimal values, and other types of data**. There are also built-in string and object types. These types are available for you to use in any C# program.
 

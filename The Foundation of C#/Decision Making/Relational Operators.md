@@ -1,4 +1,4 @@
-C# as a language supports various types of syntax operators, these operators allow to perform complex as well as shorten simple math calculations. Checking if two things are exactly the same by equality operator is undoubtedly useful, but it is not the only way to define a condition. It is one of many relational operators that check for some particular relation between values. 
+2C# as a language supports various types of syntax operators, these operators allow to perform complex as well as shorten simple math calculations. Checking if two things are exactly the same by equality operator is undoubtedly useful, but it is not the only way to define a condition. It is one of many relational operators that check for some particular relation between values. 
 
 For example the _inequality operator_ `!=` is just a opposite of `'=='` operator. Evaluating to `true` if the two variables are not equal and `false` if they are. So:
 

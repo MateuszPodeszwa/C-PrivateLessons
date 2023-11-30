@@ -4,46 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0922726a1bfef251",
+        "id": "d9d207238bafa7b5",
         "type": "tabs",
         "children": [
           {
-            "id": "963d722e6fbb028a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "df2f4a2a9383b4e4",
+            "id": "55ba5ff3c444d627",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decision Making/IF, ELSE Statements/The IF Statement.md",
+                "file": "Decision Making/Ternary Operator.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "66afb07b698ebd57",
+            "id": "45dee0769d2fe3af",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": -0.7759514617919921
-                }
+                "file": "Decision Making/Switches.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Decision Making/Switches.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Decision Making/Switches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Decision Making/Switches.md"
               }
             }
           }
@@ -172,22 +161,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "66afb07b698ebd57",
+  "active": "45dee0769d2fe3af",
   "lastOpenFiles": [
+    "Decision Making/Ternary Operator.md",
+    "Decision Making/Switches.md",
+    "Decision Making/Relational Operators.md",
+    "Decision Making/IF, ELSE Statements/The IF Statement.md",
+    "Data Types/Parse Method.md",
+    "Decision Making/IF, ELSE Statements/The ELSE Statement.md",
+    "Decision Making/IF, ELSE Statements/The ELSE IF Statement.md",
+    "Data Types/Types and Literals.md",
+    "Data Types/Implicit and Explicit Conversion - Data Casting.md",
+    "Data Types/Type Casting.md",
+    "Data Types/Convert number to string.md",
+    "Data Types/Convert Method.md",
+    "Data Types/Bool.md",
     "Console/Console 2.2 Alignment & Formatting.md",
     "Console/Console 2.1 Escape Sequences.md",
     "Console/Console 2.0 Methods.md",
-    "Decision Making/Relational Operators.md",
-    "Decision Making/Ternary Operator.md",
-    "Decision Making/IF, ELSE Statements/The IF Statement.md",
-    "Decision Making/IF, ELSE Statements/The ELSE Statement.md",
-    "Decision Making/IF, ELSE Statements/The ELSE IF Statement.md",
-    "The Foundations.md",
-    "Data Types/Convert different data types.md",
-    "Data Types/Bool.md",
-    "Data Types/Convert number to string.md",
-    "Data Types/Types and Literals.md",
     "Untitled.canvas",
+    "The Foundations.md",
     "Decision Making/IF, ELSE Statements",
     "[[Console.md",
     "(de)Console 2.0 Methods.md",

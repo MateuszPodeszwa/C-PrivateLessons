@@ -1,4 +1,4 @@
-#DecisionMaking #IF #ELSEIF
+#DecisionMaking #IF #ELSEIF #ELSE
 
 An `if` statements will add some logic into the code allowing you to make complex decision making statements.
 Let's say we need to determine a letter grade, based on a numeric score. Our grading scale is that:

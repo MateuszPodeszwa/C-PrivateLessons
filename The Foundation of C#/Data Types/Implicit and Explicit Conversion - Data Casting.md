@@ -1,4 +1,4 @@
-[#introduction](app://obsidian.md/index.html#introduction) [#csharp](app://obsidian.md/index.html#csharp) [#basics](app://obsidian.md/index.html#basics) #DOTNET
+#Convert #ImplicitCasting #ExplicitCasting #TypeCasting #DataCasting
 # Convert different data types. Explore data types casting and conversion.
 
 There are multiple techniques to perform a data type transformation. The method heavily depends on:
