@@ -100,6 +100,8 @@ response = choice switch
 Console.WriteLine(response);
 ```
 
+You are creating a new string `string response` and you assigning to this string a value of switch expression 'string response = choice switch'. The `choice` variable is a user-input-kind of variable, and the switch checks if the choice is equal to 1, 2, 3, 4 etc.. and then assigns the expression to the `response` variable.
+
 1. The switch target comes before the `switch` keyword instead of after.
 2. The "case" can hold only one expression
 3. Each expression must be separated with comma
