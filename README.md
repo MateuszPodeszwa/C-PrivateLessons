@@ -1,30 +1,12 @@
-# C# Learning Repository
+# Chellenge The Variable Shop
+ You see an old shopkeeper struggling to stack up vvariables in a window display: Hoo-wee! All these variables types sure are exciting but setting them all up to show them off to excited new programmers like yourself is a lot of work for these aching bones, she says. "You wouldn't mind helping me set up this program with one variable of every type, would you?".
 
-Welcome to my C# learning repository! This space is dedicated to testing and saving code snippets and programs as I navigate through the fascinating world of C# and .NET frameworks.
+ ## Objectives
+ 1. BUild a program with a variable of all fourteen types described in c#
+ 2. Assign each of them a value usign a literal of the correct type
+ 3. Use `Console.WriteLine` to display the contents of each variabel
 
-## Purpose
+# The Variable Shop Returns
 
-The main objective of this repository is to serve as a personal archive of my C# journey, housing the knowledge I acquire along the way. While it's currently a private repository, feel free to explore the code and use it if you find it helpful. Your feedback is highly appreciated!
-
-## Contributions
-
-If you come across any issues or improvements in the code, don't hesitate to create a pull request. I value your input, and explaining the changes will not only help me understand but also contribute to the learning experience.
-
-## Portfolio
-
-This repository will eventually transform into a portfolio, showcasing my growing proficiency in C#. I look forward to sharing my progress and the skills I've honed through various projects.
-
-## Learning Resources
-
-I'm actively learning C# from different platforms, including:
-- [Microsoft Learn](https://learn.microsoft.com/en-us/users/mateuszpodeszwa/)
-- [Codecademy](https://www.codecademy.com/profiles/MateuszPodeszwa)
-- YouTube
-
-Feel free to check out my profiles on these platforms to track my progress!
-
-## Contact
-
-For more information or to get in touch, feel free to reach out via [GitHub](https://github.com/MateuszPodeszwa).
-
-Happy coding!
+1. Modify your _VariableShop_ program to assign a new, different literal value to each of the 14 original variables. Do not declare any additional variables.
+2. Use `Console.WriteLine` to display the updated contents of each variable.
