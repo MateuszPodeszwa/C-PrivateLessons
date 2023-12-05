@@ -1,4 +1,4 @@
-# Chellenge The Variable Shop
+# Challenge The Variable Shop
  You see an old shopkeeper struggling to stack up vvariables in a window display: Hoo-wee! All these variables types sure are exciting but setting them all up to show them off to excited new programmers like yourself is a lot of work for these aching bones, she says. "You wouldn't mind helping me set up this program with one variable of every type, would you?".
 
  ## Objectives
