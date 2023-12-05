@@ -1,11 +1,8 @@
-# C-PrivateLessons
-This repo is used for testing and saving C# - the language I am learnign.
+# Challenge The 4 Sisters and the Duckbear
 
-The main purpose of this repository is to store snippets and programs written with the use of C# and .NET frameworks. This is a private repository, but you are welcome to use it if you find the work stored here useful. This repository represents my journey, knowledge and all I know about C#. If you find any issues or problems in the code, please don’t hesitate to create a pull request with the correct code, and please don’t forget to explain it as it will help me with my study. I will use this repository as a future portfolio to showcase my knowledge and abilities in C#.
+Four sisters own a chocolate farm and collect chocolate eggs laid by chocolate chickens every day. But more often than not, the number of eggs is not evenly divisible among the sisters, and everybody knows you cannot split a chocolate egg into pieces without ruining it. The arguments have grown more heated over time. The town is tired of hearing the four sisters complain, and Chandra, the town's Arbiter, has finally come up with a plan everybody can agree to. All four sisters get an equal number of chocolate eggs every day, and the remainder is fed to their pet duckbear. All that is left is to have some skilled Programmer build a program to tell them how much each sister and the duckbear should get.
 
-I am learning C# from different websites such as Codecademy, YouTube and Microsoft Learn platform. If you want to see my progress in this matter, I will include my social links to the mentioned platforms:
-
-1. https://learn.microsoft.com/en-us/users/mateuszpodeszwa/ <br>
-2. https://www.codecademy.com/profiles/MateuszPodeszwa
-
-For more information please contact me via GitHub.
+## Objectives
+1. Create a program that lets the user enter the number of chocolate eggs gathered that day.
+2. Using / and %, compute how many eggs each sister should get and how many are left over for the duckbear.
+3.  **Answer this question: ** What are three total egg counts where the duckbear gets more than each sister does? You can use the program you created to help you find the answer.
