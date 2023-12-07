@@ -1,0 +1,15 @@
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Prototype/bin/Debug/net7.0/The Prototype
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Prototype/bin/Debug/net7.0/The Prototype.deps.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Prototype/bin/Debug/net7.0/The Prototype.runtimeconfig.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Prototype/bin/Debug/net7.0/The Prototype.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Prototype/bin/Debug/net7.0/The Prototype.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Prototype/obj/Debug/net7.0/The Prototype.csproj.AssemblyReference.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Prototype/obj/Debug/net7.0/The Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Prototype/obj/Debug/net7.0/The Prototype.AssemblyInfoInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Prototype/obj/Debug/net7.0/The Prototype.AssemblyInfo.cs
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Prototype/obj/Debug/net7.0/The Prototype.csproj.CoreCompileInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Prototype/obj/Debug/net7.0/The Prototype.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Prototype/obj/Debug/net7.0/refint/The Prototype.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Prototype/obj/Debug/net7.0/The Prototype.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Prototype/obj/Debug/net7.0/The Prototype.genruntimeconfig.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Prototype/obj/Debug/net7.0/ref/The Prototype.dll
