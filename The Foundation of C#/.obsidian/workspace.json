@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d9d207238bafa7b5",
+        "id": "2de96f137bd89d40",
         "type": "tabs",
         "children": [
           {
-            "id": "55ba5ff3c444d627",
+            "id": "1d14e02b6831a624",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Decision Making/Ternary Operator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45dee0769d2fe3af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Decision Making/Switches.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#do/while",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decision Making/Switches.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decision Making/Switches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Decision Making/Switches.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,37 +140,40 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "45dee0769d2fe3af",
+  "active": "1d14e02b6831a624",
   "lastOpenFiles": [
-    "Decision Making/Ternary Operator.md",
-    "Decision Making/Switches.md",
-    "Decision Making/Relational Operators.md",
-    "Decision Making/IF, ELSE Statements/The IF Statement.md",
-    "Data Types/Parse Method.md",
-    "Decision Making/IF, ELSE Statements/The ELSE Statement.md",
-    "Decision Making/IF, ELSE Statements/The ELSE IF Statement.md",
+    "Untitled.md",
+    "The Foundations.md",
+    "Loops/The While Loops.md",
+    "Loops/The For Loops.md",
+    "Loops/Loops and Looping.md",
     "Data Types/Types and Literals.md",
-    "Data Types/Implicit and Explicit Conversion - Data Casting.md",
-    "Data Types/Type Casting.md",
-    "Data Types/Convert number to string.md",
-    "Data Types/Convert Method.md",
     "Data Types/Bool.md",
     "Console/Console 2.2 Alignment & Formatting.md",
     "Console/Console 2.1 Escape Sequences.md",
     "Console/Console 2.0 Methods.md",
     "Untitled.canvas",
-    "The Foundations.md",
+    "Decision Making/IF, ELSE Statements/The IF Statement.md",
+    "Data Types/Converting Data Types/The TryParse Method.md",
+    "Decision Making/Ternary Operator.md",
+    "Decision Making/Switches.md",
+    "Decision Making/Relational Operators.md",
+    "Data Types/Converting Data Types/The ToString Method.md",
+    "Data Types/Converting Data Types/The Parse Method.md",
+    "Data Types/Converting Data Types/The Convert Method.md",
+    "Data Types/Converting Data Types/Data Casting.md",
+    "Loops",
+    "TryParse().md",
+    "Data Types/Converting Data Types",
+    "Decision Making/IF, ELSE Statements/The ELSE Statement.md",
+    "Decision Making/IF, ELSE Statements/The ELSE IF Statement.md",
+    "Data Types/Type Casting.md",
     "Decision Making/IF, ELSE Statements",
     "[[Console.md",
     "(de)Console 2.0 Methods.md",
-    "Console.md",
-    "[Console.md",
     "Decision Making",
     "Data Types",
     "Console",
-    "Data Types",
-    "2023-11-27.md",
-    "string interpolation.md",
-    "[The Foundations.md"
+    "Data Types"
   ]
 }

@@ -80,7 +80,7 @@ There are also the _greater than_ or _less than_ operators as many, many others.
 The ones above operate on two values. **C# also has two unary operators:**
 
 -      **Increment**, `++`, which increments its single operand by one.
--      **Decrement**, `--`, which decrements its single operand by one.
+-      **Decrement**, `--`, which decrements its single operand by one. ^70f526
 
 Unlike the other arithmetic operators, the increment and decrement operators change the value of their operand as well as return a value.
 
