@@ -1,0 +1,15 @@
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Magic Cannon/bin/Debug/net7.0/The Magic Cannon
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Magic Cannon/bin/Debug/net7.0/The Magic Cannon.deps.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Magic Cannon/bin/Debug/net7.0/The Magic Cannon.runtimeconfig.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Magic Cannon/bin/Debug/net7.0/The Magic Cannon.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Magic Cannon/bin/Debug/net7.0/The Magic Cannon.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Magic Cannon/obj/Debug/net7.0/The Magic Cannon.csproj.AssemblyReference.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Magic Cannon/obj/Debug/net7.0/The Magic Cannon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Magic Cannon/obj/Debug/net7.0/The Magic Cannon.AssemblyInfoInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Magic Cannon/obj/Debug/net7.0/The Magic Cannon.AssemblyInfo.cs
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Magic Cannon/obj/Debug/net7.0/The Magic Cannon.csproj.CoreCompileInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Magic Cannon/obj/Debug/net7.0/The Magic Cannon.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Magic Cannon/obj/Debug/net7.0/refint/The Magic Cannon.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Magic Cannon/obj/Debug/net7.0/The Magic Cannon.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Magic Cannon/obj/Debug/net7.0/The Magic Cannon.genruntimeconfig.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Magic Cannon/obj/Debug/net7.0/ref/The Magic Cannon.dll
