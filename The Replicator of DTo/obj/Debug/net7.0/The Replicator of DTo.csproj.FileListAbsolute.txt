@@ -1,0 +1,15 @@
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Replicator of DTo/bin/Debug/net7.0/The Replicator of DTo
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Replicator of DTo/bin/Debug/net7.0/The Replicator of DTo.deps.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Replicator of DTo/bin/Debug/net7.0/The Replicator of DTo.runtimeconfig.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Replicator of DTo/bin/Debug/net7.0/The Replicator of DTo.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Replicator of DTo/bin/Debug/net7.0/The Replicator of DTo.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Replicator of DTo/obj/Debug/net7.0/The Replicator of DTo.csproj.AssemblyReference.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Replicator of DTo/obj/Debug/net7.0/The Replicator of DTo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Replicator of DTo/obj/Debug/net7.0/The Replicator of DTo.AssemblyInfoInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Replicator of DTo/obj/Debug/net7.0/The Replicator of DTo.AssemblyInfo.cs
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Replicator of DTo/obj/Debug/net7.0/The Replicator of DTo.csproj.CoreCompileInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Replicator of DTo/obj/Debug/net7.0/The Replicator of DTo.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Replicator of DTo/obj/Debug/net7.0/refint/The Replicator of DTo.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Replicator of DTo/obj/Debug/net7.0/The Replicator of DTo.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Replicator of DTo/obj/Debug/net7.0/The Replicator of DTo.genruntimeconfig.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Replicator of DTo/obj/Debug/net7.0/ref/The Replicator of DTo.dll
