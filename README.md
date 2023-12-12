@@ -1,35 +1,12 @@
-# C# Learning Repository
+# The Story:
+While searching an abandoned storage building containing strange code artifacts, you uncover the ancient
+Replicator of D'To. This can replicate the contents of any int array into another array.
+But it appears broken and needs a Programmer to reforge the magic that allows it to replicate once again.
 
-Welcome to my C# learning repository! This space is dedicated to testing and saving code snippets and programs as I navigate through the fascinating world of C# and .NET frameworks.
-
-## Purpose
-
-The main objective of this repository is to serve as a personal archive of my C# journey, housing the knowledge I acquire along the way. While it's currently a private repository, feel free to explore the code and use it if you find it helpful. Your feedback is highly appreciated!
-
-## Software
-
-To edit any c# project file you will need a proper software, personally I use Visual Studio and JetBrain's Rider for console apps. 
-To edit markdown notes use obsidian app, can be found under the obsidian.md url. It is a free note-taking program that I use. Beside the fact that markdown can be basically open with any IDE, obsidian provides many features and addons that other IDE may not understand and thus the content won't be displayed properly.
-
-## Contributions
-
-If you come across any issues or improvements in the code, don't hesitate to create a pull request. I value your input, and explaining the changes will not only help me understand but also contribute to the learning experience.
-
-## Portfolio
-
-This repository will eventually transform into a portfolio, showcasing my growing proficiency in C#. I look forward to sharing my progress and the skills I've honed through various projects.
-
-## Learning Resources
-
-I'm actively learning C# from different platforms, including:
-- [Microsoft Learn](https://learn.microsoft.com/en-us/users/mateuszpodeszwa/)
-- [Codecademy](https://www.codecademy.com/profiles/MateuszPodeszwa)
-- YouTube
-
-Feel free to check out my profiles on these platforms to track my progress!
-
-## Contact
-
-For more information or to get in touch, feel free to reach out via [GitHub](https://github.com/MateuszPodeszwa).
-
-Happy coding!
+## Objectives:
+1. Make a program that creates an array of length 5.
+2. Ask the user for five numbers and put them in the array.
+3. Make a second array of length 5.
+4. Use a loop to copy the values out of the original array and into the new one.
+5. Display the contents of both arrays one at a time to illustrate that the Replicator of T'To works.
+  
