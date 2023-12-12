@@ -1,0 +1,15 @@
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Laws of Freach/bin/Debug/net7.0/The Laws of Freach
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Laws of Freach/bin/Debug/net7.0/The Laws of Freach.deps.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Laws of Freach/bin/Debug/net7.0/The Laws of Freach.runtimeconfig.json
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Laws of Freach/bin/Debug/net7.0/The Laws of Freach.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Laws of Freach/bin/Debug/net7.0/The Laws of Freach.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Laws of Freach/obj/Debug/net7.0/The Laws of Freach.csproj.AssemblyReference.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Laws of Freach/obj/Debug/net7.0/The Laws of Freach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Laws of Freach/obj/Debug/net7.0/The Laws of Freach.AssemblyInfoInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Laws of Freach/obj/Debug/net7.0/The Laws of Freach.AssemblyInfo.cs
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Laws of Freach/obj/Debug/net7.0/The Laws of Freach.csproj.CoreCompileInputs.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Laws of Freach/obj/Debug/net7.0/The Laws of Freach.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Laws of Freach/obj/Debug/net7.0/refint/The Laws of Freach.dll
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Laws of Freach/obj/Debug/net7.0/The Laws of Freach.pdb
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Laws of Freach/obj/Debug/net7.0/The Laws of Freach.genruntimeconfig.cache
+/Users/mateuszpodeszwa/Documents/Repositories/C-PrivateLessons/The Laws of Freach/obj/Debug/net7.0/ref/The Laws of Freach.dll

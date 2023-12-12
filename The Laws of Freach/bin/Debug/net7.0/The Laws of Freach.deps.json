@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "The Laws of Freach/1.0.0": {
+        "runtime": {
+          "The Laws of Freach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "The Laws of Freach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
