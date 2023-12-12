@@ -6,46 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:Console  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:\"Data Types\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"Decision Making/IF, ELSE Statements\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:\"Data Types/Converting Data Types\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": 1.2,
-  "nodeSizeMultiplier": 2.05892333984375,
-  "lineSizeMultiplier": 4.65885823567708,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 2.89831949869792,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 12.6749674479167,
-  "linkStrength": 0.715047200520833,
-  "linkDistance": 30,
-  "scale": 0.8377263854986101,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.4730674361027325,
   "close": true
 }
