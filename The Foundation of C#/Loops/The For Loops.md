@@ -48,3 +48,4 @@ The final part defines how to change the variable used in the loop's condition.
 		
 	to indicate a for loop with no condition and will loop forever, though the while (true) loop may be better.
 
+Another variation of the **for** lop is a [[The Foreach Loop|foreach loop]]
