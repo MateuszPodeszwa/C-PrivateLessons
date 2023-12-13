@@ -11,11 +11,28 @@
             "id": "32afed2e10d6cef8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Types/Arrays/Arrays Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f38317abd374a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Types/Arrays/Multi-Dimensional Arrays.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Types/Arrays/Multi-Dimensional Arrays.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Types/Arrays/Multi-Dimensional Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Types/Arrays/Multi-Dimensional Arrays.md"
+              }
             }
           }
         ],
@@ -141,21 +162,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32afed2e10d6cef8",
+  "active": "1f38317abd374a7b",
   "lastOpenFiles": [
+    "Data Types/Arrays/Arrays Introduction.md",
+    "Data Types/Arrays/Multi-Dimensional Arrays.md",
+    "The Foundations.md",
     "Untitled.canvas",
+    "Stack Introduction.md",
+    "Lists Introduction.md",
     "2023-12-12.md",
     "Decision Making/IF, ELSE Statements/The ELSE IF Statement.md",
     "Decision Making/IF, ELSE Statements/The ELSE Statement.md",
     "Decision Making/IF, ELSE Statements/The IF Statement.md",
-    "Stack Introduction.md",
     "Loops/The Foreach Loop.md",
     "Loops/The For Loops.md",
-    "Lists Introduction.md",
-    "Data Types/Arrays/Arrays Introduction.md",
     "Data Types/Arrays/Accessing the Array.md",
     "Data Types/Arrays/The .Length Property.md",
-    "The Foundations.md",
     "Data Types/Arrays/Create an Array.md",
     "Loops/Loops and Looping.md",
     "Loops/The While Loops.md",
