@@ -47,10 +47,10 @@ Our definition of `CountToTen` above puts it inside of the main method. The code
 
 1. Console Application
 	1. Program
-		1. Main
-			1. CountToTen
+		1. Main (the starting point method)
+			1. CountToTen - the method
 				1. For loop
-					1. current variable
+					1. current - the variable
 
 ---
 
