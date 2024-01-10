@@ -37,6 +37,13 @@ For the moment, let's focus on that `void CountToTen()` line. This line **declar
 
 The `void` part, before the name, is the method's *return type*. Which means that the **void** methods will not return any values, or differently: the method does not produce a result.
 
+Every method declaration includes a set of parentheses containing information for the method to use. **CountToTen** doesn't need any information to do its job, so we've left the parentheses empty for now. For example, the method do not take any value to count to ten, it just does its job.
+
+After the declaration is the method's body, containing all the code that should run when called. In this case, the body is the curly braces and all statements in between. You can include any C# code inside methods.
+
+## Local Functions
+
+Our
 
 
 
