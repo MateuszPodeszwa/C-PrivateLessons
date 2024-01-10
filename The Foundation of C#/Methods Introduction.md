@@ -43,13 +43,23 @@ After the declaration is the method's body, containing all the code that should 
 
 ## Local Functions
 
-Our
+Our definition of `CountToTen` above puts it inside of the main method. The code map below illustrates this arrangement:
 
+1. Console Application
+	1. Program
+		1. Main
+			1. CountToTen
+				1. For loop
+					1. current variable
 
+---
 
+Until now, we have only seen methods that live directly in a class. For example [[WriteLine Method]] lives in **Console**, and **Main** lives in **Program**. This map shows that methods can also be defined inside other methods. 
 
+>[!warning] Difference between **Method** and **Function** / **Local Function**
+>Formally, any reusable, callable code block is a **function**, a function is also a method if it is a member of a class. So technically, **Main** is a method, but **CountToTen** is not. Functions that are defined inside of other functions are known as *local functions*. So **CountToTen** is a local function, but **Main** is not. 
 
-
+A local function can live anywhere within its containing method. You could put them at the top, above your other statements, at the bottom, after your statements, or somewhere in the middle - the compiler **don't care** where they go. The compiler extracts them and gives them slightly different names behind the scenes, so it doesn't care about the ordering. Since they can go anywhere, use it as your advantage.
 
 
 
