@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2de96f137bd89d40",
+        "id": "1089018cd1ae77aa",
         "type": "tabs",
         "children": [
           {
-            "id": "573c7cf8597940ea",
+            "id": "d0b75f0259908c96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Console/Console Methods/Read Method.md",
+                "file": "Methods Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fb8fa9a7649a7aad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Console/Console Methods/ReadKey Method.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,7 @@
       {
         "id": "03aed6070770b439",
         "type": "tabs",
-        "dimension": 27.48212867355044,
+        "dimension": 27.482128673550434,
         "children": [
           {
             "id": "60a1efa59a9bdc31",
@@ -115,7 +102,7 @@
       {
         "id": "43cf9f2d4c7f7a00",
         "type": "tabs",
-        "dimension": 19.777601270849882,
+        "dimension": 19.777601270849875,
         "children": [
           {
             "id": "34a515f5232fbb40",
@@ -133,7 +120,7 @@
       {
         "id": "3dac302c9578c15a",
         "type": "tabs",
-        "dimension": 29.626687847498015,
+        "dimension": 29.626687847498005,
         "children": [
           {
             "id": "76c13224a3e9abcf",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Console/Console Methods/ReadKey Method.md"
+                "file": "Methods Introduction.md"
               }
             }
           }
@@ -150,7 +137,7 @@
       {
         "id": "b5cea1f51c087ece",
         "type": "tabs",
-        "dimension": 23.113582208101676,
+        "dimension": 23.11358220810167,
         "children": [
           {
             "id": "87d86023c8be23f0",
@@ -158,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Console/Console Methods/ReadKey Method.md",
+                "file": "Methods Introduction.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Console/Console Methods/ReadKey Method.md",
+                "file": "Methods Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,22 +188,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb8fa9a7649a7aad",
+  "active": "d0b75f0259908c96",
   "lastOpenFiles": [
-    "Console/Console Methods/Read Method.md",
-    "Console/Console Methods/Console Methods.md",
+    "2024-01-03.md",
     "Methods Introduction.md",
+    "Console/Console Methods/Read Method.md",
+    "Console/Console 2.2 Alignment & Formatting.md",
+    "Console/Console 2.1 Escape Sequences.md",
     "Console/Console Methods/ReadKey Method.md",
+    "Console/Console Methods/Console Methods.md",
     "Console/Console Methods/Write Method.md",
     "Data Types/Arrays/Create an Array.md",
     "Data Types/Arrays/Arrays Introduction.md",
     "Data Types/Arrays/Accessing the Array.md",
     "Console/Console Methods/WriteLine Method.md",
-    "Console/Console 2.2 Alignment & Formatting.md",
-    "2024-01-03.md",
     "Lists Introduction.md",
     "Stack Introduction.md",
-    "Console/Console 2.1 Escape Sequences.md",
     "Data Types/Converting Data Types/The TryParse Method.md",
     "Data Types/Bool.md",
     "Console/How to learn.canvas",
