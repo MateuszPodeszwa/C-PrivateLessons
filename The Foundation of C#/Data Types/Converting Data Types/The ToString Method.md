@@ -1,5 +1,3 @@
-#ToString #Convert
-
 Every data type variable has a `ToString()` method. What the `ToString()` method does depends on how it's implemented on a given type. However, on most primitives, it performs a widening conversion.
 
 ```c#

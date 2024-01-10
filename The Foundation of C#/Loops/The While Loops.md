@@ -1,5 +1,3 @@
-#While #Loop #do/while
-
 # The While Loop
 
 The `while` loops are the most easiest to understand, `while` loops are very straight forward as they are easy to decode. 

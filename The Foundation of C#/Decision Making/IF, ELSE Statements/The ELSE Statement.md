@@ -1,5 +1,3 @@
-#IF #ELSE #ELSEIF
-
 The counterpart to `if` is an `else` statement. An `else` statement allows you to specify an alternative statement to run if the `if` statement's condition is **false**. 
 
 ```c#

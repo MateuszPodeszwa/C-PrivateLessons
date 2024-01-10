@@ -1,3 +1,8 @@
+---
+tags:
+  - Data_Types
+  - Arrays
+---
 # Accessing and Saving values in Arrays
 
 Let's look at how to work with specific items within the array. To refer to a specific item in an array, you could use the _indexer_ operator `[ ]`. For example, this code assigns a value to spot #0 in the `scores` array.

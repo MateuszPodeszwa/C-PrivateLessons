@@ -1,4 +1,6 @@
-#EscapeSequences #StringConcatenation #StringInterpolation #VerbatimLiterals
+---
+tags: []
+---
 # Escape character sequences.
 
 At times, inserting quotes within a string in C# can cause errors as the language might interpret quotes **“”** as the end of the string, resulting in an error. To prevent this issue, an escape character was introduced. By combining quotes with these symbols, we can signal to the compiler that the quotes are part of the string sequence and not its conclusion.

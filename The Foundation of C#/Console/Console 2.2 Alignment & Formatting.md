@@ -1,4 +1,6 @@
-#Alignment #Formatting 
+---
+tags: []
+---
 
 While [[Console 2.1 Escape Sequences|string interpolation]] is powerful, it is only the beginning. Two other features make string interpolation even better: **alignment** and **formatting**
 # Alignment

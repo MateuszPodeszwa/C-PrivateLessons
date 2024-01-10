@@ -1,4 +1,3 @@
-#Loops #For #While #while/do #breaks #continue
 # Loops Overview 
 
 There are many different loops in C#, for example: [[The For Loops]] and [[The While Loops]] - the most commonly used. But what is a loop? A loop is a y repeated x amount of times until the condition is true or until the user press the button, you know the idea. 

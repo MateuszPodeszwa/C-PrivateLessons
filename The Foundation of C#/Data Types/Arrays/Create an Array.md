@@ -1,3 +1,8 @@
+---
+tags:
+  - Data_Types
+  - Arrays
+---
 # How to create arrays?
 
 To create empty array the first and most important is to think about the array size, and a name that will briefly describe what is the purpose of selected array. And the array can be created by using following code:

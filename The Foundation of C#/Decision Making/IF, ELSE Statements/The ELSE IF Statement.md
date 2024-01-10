@@ -1,5 +1,3 @@
-#IF #ELSEIF #ELS
-
 While `if`  and `else` let us choose from one of two options, the combination of both can create third and fourth options, an `else if` condition gives you a second statement to check after the initial `if` condition and before the initial `else`. 
 
 ```c#

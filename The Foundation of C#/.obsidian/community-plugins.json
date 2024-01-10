@@ -8,5 +8,11 @@
   "obsidian-pretty-bibtex",
   "obsidian-banners",
   "obsidian-image-toolkit",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "highlightr-plugin",
+  "calendar",
+  "templater-obsidian",
+  "cm-editor-syntax-highlight-obsidian",
+  "url-into-selection",
+  "editing-toolbar"
 ]

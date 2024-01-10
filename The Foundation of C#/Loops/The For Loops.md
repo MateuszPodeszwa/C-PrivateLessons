@@ -1,5 +1,3 @@
-#Loops #For
-
 # The FOR Loops
 
 The third loop type is the `for` loop. Let's return to the first example in this level: counting to 5. The [[The While Loops|while]] loop solution was this:

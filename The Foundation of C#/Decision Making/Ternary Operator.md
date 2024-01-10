@@ -1,4 +1,3 @@
-#ConditionalOperator #TernaryOperator #Ternary
 # The Conditional Operator
 
 The ternary operator allows for a compact syntax in the case of binary decisions. Like an [[The IF Statement|if...]] or [[The ELSE Statement|else..]] statement, it evaluates a single condition and executes one expression if the condition is true. It operates on three different expressions:

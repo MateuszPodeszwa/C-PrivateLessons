@@ -1,5 +1,3 @@
-#DecisionMaking 
-
 An `if` statements will add some logic into the code allowing you to make complex decision making statements.
 Let's say we need to determine a letter grade, based on a numeric score. Our grading scale is that:
 
@@ -81,7 +79,7 @@ if (score == 100)
 Console.WriteLine(grade); // Compiles error
 ```
 
-The variable `grade` no longer exists, once you get to [[Console 2.0 Methods#WriteLine Method|Console.WriteLine]] on the last line. The `input` and `score` variables live directly in out main method, but the `grade` variable lives in the `if` block. We can use `grade` within `if` block. And, importantly, we can reach outward and use `input` and `score` as well. And therefore the identifier `grade` is only valid in the `if` block. 
+The variable `grade` no longer exists, once you get to [[Console Methods#WriteLine Method|Console.WriteLine]] on the last line. The `input` and `score` variables live directly in out main method, but the `grade` variable lives in the `if` block. We can use `grade` within `if` block. And, importantly, we can reach outward and use `input` and `score` as well. And therefore the identifier `grade` is only valid in the `if` block. 
 
 If ew want to use grade outside of the method, we must declare it outside of the block:
 

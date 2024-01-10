@@ -1,4 +1,8 @@
-#Arrays #DataStoring
+---
+tags:
+  - Data_Types
+  - Arrays
+---
 # What is an array?
 
 Arrays is a collection of any values, let's take a example of a score storing system. Imagine we have 10 scores we need to store and display. To achieve this goal we can create 10 different variables and call them accordingly:

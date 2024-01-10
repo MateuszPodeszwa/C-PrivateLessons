@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a369fc6e1b80b6b3","x":-660,"y":-260,"width":250,"height":116,"type":"text","text":"Read the main file to have some basic knowledge."},
+		{"id":"7b0716a9efb8ea19","type":"text","text":"Start of the Journey!","x":-660,"y":-360,"width":250,"height":60},
+		{"id":"ee75007afb2eba51","x":-805,"y":-100,"width":540,"height":400,"type":"file","file":"Console/Console Methods/Console Methods.md"},
+		{"id":"1fc44acf8f7739a6","x":-180,"y":-10,"width":250,"height":221,"type":"text","text":"I recommend to read the WriteLine method first, as it make you possible to write your first \"Hello World\" program."},
+		{"id":"6e2e27fe79bb0964","x":-805,"y":340,"width":540,"height":400,"type":"file","file":"Console/Console Methods/WriteLine Method.md"}
+	],
+	"edges":[
+		{"id":"b088c92d5710f7f3","fromNode":"7b0716a9efb8ea19","fromSide":"bottom","toNode":"a369fc6e1b80b6b3","toSide":"top"},
+		{"id":"9fcb199ee3a65f81","fromNode":"a369fc6e1b80b6b3","fromSide":"bottom","toNode":"ee75007afb2eba51","toSide":"top"},
+		{"id":"e328c9478111886d","fromNode":"ee75007afb2eba51","fromSide":"right","toNode":"1fc44acf8f7739a6","toSide":"left"},
+		{"id":"3cb804e32e5bffba","fromNode":"1fc44acf8f7739a6","fromSide":"bottom","toNode":"6e2e27fe79bb0964","toSide":"right"}
+	]
+}
