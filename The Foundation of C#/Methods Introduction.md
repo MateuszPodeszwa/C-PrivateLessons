@@ -92,5 +92,8 @@ CountToTen();
 CountToTen();
 ```
 
+## Methods and Their Own Variables
 
+...
 
+# Passing Data to a Method
