@@ -97,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "43cf9f2d4c7f7a00",
@@ -192,11 +191,11 @@
   },
   "active": "d0b75f0259908c96",
   "lastOpenFiles": [
-    "2024-01-03.md",
-    "Methods Introduction.md",
     "Console/Console Methods/Read Method.md",
     "Console/Console 2.2 Alignment & Formatting.md",
     "Console/Console 2.1 Escape Sequences.md",
+    "Methods Introduction.md",
+    "2024-01-03.md",
     "Console/Console Methods/ReadKey Method.md",
     "Console/Console Methods/Console Methods.md",
     "Console/Console Methods/Write Method.md",
