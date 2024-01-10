@@ -15,5 +15,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "url-into-selection",
   "editing-toolbar",
-  "multi-properties"
+  "multi-properties",
+  "obsidian-git"
 ]
