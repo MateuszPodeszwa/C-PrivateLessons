@@ -61,5 +61,36 @@ Until now, we have only seen methods that live directly in a class. For example 
 
 A local function can live anywhere within its containing method. You could put them at the top, above your other statements, at the bottom, after your statements, or somewhere in the middle - the compiler **don't care** where they go. The compiler extracts them and gives them slightly different names behind the scenes, so it doesn't care about the ordering. Since they can go anywhere, use it as your advantage.
 
+# Calling a Method
+
+Our code above defined a **CountToTen** method but didn't put it to use. Let's fix that. We've called methods before, like `Console.WriteLine`, so the syntax should be familiar.
+
+```c#
+CountToTen();
+
+void CountToTen() 
+{
+	for (int current = 1; current <= 10; current++)
+		Console.WriteLine(current);
+}
+```
+
+The most notable difference is that we didn't put a class name first, as we have done with `Console.WriteLine()`. Since **CountToTen** lives in our main method, we can refer to it without any qualifiers from anywhere in the main method.
+
+The code runs by reading the `CountToTen()` and then the compiler remembers when it occurred, then it goes inside the referred method, and executes the code inside it. After the compiler execute the method's code, the flow of execution flows back where it encounter the method. Just like:
+
+1. Execute the code above `CountToTen()`.
+2. Meet the `CountToTen()` method and goes inside of it.
+3. Execute any code found inside of `CountToTen()` method.
+4. Back to the original code, start from the place you stopped.
+
+Notably, just because the definition of **CountToTen** lives at the end of the method does not mean it will get called then. Only an actual method call will cause the method to run. A definition alone is not sufficient for that. We can, of course, call our new method more than once. Reusing code is a key reason for methods in the first place:
+
+```c#
+CountToTen();
+( ... ) // Some Code
+CountToTen();
+```
+
 
 
