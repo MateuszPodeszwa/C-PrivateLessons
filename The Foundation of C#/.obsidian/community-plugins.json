@@ -14,5 +14,6 @@
   "templater-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "url-into-selection",
-  "editing-toolbar"
+  "editing-toolbar",
+  "multi-properties"
 ]
