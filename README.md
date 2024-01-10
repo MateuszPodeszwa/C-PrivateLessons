@@ -1,35 +1,57 @@
 # C# Learning Repository
 
-Welcome to my C# learning repository! This space is dedicated to testing and saving code snippets and programs as I navigate through the fascinating world of C# and .NET frameworks.
+Hello, Mateusz! Delighted to have you exploring my C# learning repository. This space is designed to document my coding journey in C# and the extensive world of .NET frameworks. Let's delve into some additional details about the repository and its branches:
 
 ## Purpose
 
-The main objective of this repository is to serve as a personal archive of my C# journey, housing the knowledge I acquire along the way. While it's currently a private repository, feel free to explore the code and use it if you find it helpful. Your feedback is highly appreciated!
+This repository acts as a personal archive, capturing the evolving knowledge gained during my C# exploration. Although currently private, you're welcome to explore the code. Valuable feedback is encouraged and appreciated!
 
 ## Software
 
-To edit any c# project file you will need a proper software, personally I use Visual Studio and JetBrain's Rider for console apps. 
-To edit markdown notes use obsidian app, can be found under the obsidian.md url. It is a free note-taking program that I use. Beside the fact that markdown can be basically open with any IDE, obsidian provides many features and addons that other IDE may not understand and thus the content won't be displayed properly.
+For editing C# project files, I recommend Visual Studio and JetBrains Rider for console apps. Additionally, consider using Obsidian MD for markdown notes. You can download it from [obsidian.md](https://obsidian.md), enhancing the viewing experience with features and addons that might not be supported by other IDEs.
 
 ## Contributions
 
-If you come across any issues or improvements in the code, don't hesitate to create a pull request. I value your input, and explaining the changes will not only help me understand but also contribute to the learning experience.
+If you identify issues or have suggestions for improvement, don't hesitate to create a pull request. Your input is not only welcomed but contributes to the learning process. Please provide explanations for any changes made.
 
 ## Portfolio
 
-This repository will eventually transform into a portfolio, showcasing my growing proficiency in C#. I look forward to sharing my progress and the skills I've honed through various projects.
+This repository is poised to evolve into a portfolio, showcasing my advancing proficiency in C#. I'm eager to share my progress and the skills cultivated through diverse projects.
 
 ## Learning Resources
 
-I'm actively learning C# from different platforms, including:
+My C# learning journey involves platforms such as:
 - [Microsoft Learn](https://learn.microsoft.com/en-us/users/mateuszpodeszwa/)
 - [Codecademy](https://www.codecademy.com/profiles/MateuszPodeszwa)
 - YouTube
 
-Feel free to check out my profiles on these platforms to track my progress!
+Feel free to check my progress on these platforms!
 
-## Contact
+## GitHub Repository Details
 
-For more information or to get in touch, feel free to reach out via [GitHub](https://github.com/MateuszPodeszwa).
+### Branches
 
-Happy coding!
+1. **Default**
+2. **CSharp_014_TheLawsofFreach**
+3. **CSharp_013_TheReplicator**
+4. **CSharp_012_TheMagicCannon**
+5. **CSharp_011_ThePrototype**
+6. **CSharp_006_TheFourSistersDuckbear**
+7. **CSharp_004_TheVariableShop**
+8. **CSharp_005_TheTriangleFarmer**
+9. **CSharp_010_BuyingInventory**
+10. **CSharp_009_Watchtower**
+11. **CSharp_007_TheDefenseConsolas**
+12. **CSharp_008_RepairingTheClocktower**
+
+### Branch Information
+
+- **Behind/Ahead:** Indicates the number of commits your local branch is behind/ahead of the remote branch.
+
+### Challenges
+
+These branches contain challenges of C# code. Each one is a unique coding endeavor that contributes to the overall learning experience. Explore, learn, and feel free to provide feedback!
+
+For more information or to connect, reach out via [GitHub](https://github.com/MateuszPodeszwa).
+
+Happy coding! And don't forget, for efficient note-taking, consider downloading Obsidian MD.
