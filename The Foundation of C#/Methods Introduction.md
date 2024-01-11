@@ -88,7 +88,7 @@ Notably, just because the definition of **CountToTen** lives at the end of the m
 
 ```c#
 CountToTen();
-( ... ) // Some Code
+// ( ... ) Some Code
 CountToTen();
 ```
 
