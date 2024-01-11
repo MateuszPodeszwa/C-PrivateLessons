@@ -94,6 +94,48 @@ CountToTen();
 
 ## Methods and Their Own Variables
 
-...
+Methods gets their own set of variables to work with. This gives them their own sandbox to play in without interfering with the data of another method. Multiple methods can each use the same variable name, and they won't interfere with each other. 
+
+```c#
+int current = Convert.ToInt32(Console.ReadLine());
+CountToTen();
+CountToTwenty();
+
+void CountToTen()
+{
+	for (int current = 1; current <= 10; current++)
+		Console.WriteLine(current);
+}
+
+void CountToTen()
+{
+	for (int current = 1; current <= 20; current++)
+		Console.WriteLine(current);
+}
+```
+
+`CountToTen()` and `CountToTwenty()` methods, as well as the `Main()` method - each have a `current` variable, but the three variables are distinct. Each has its own memory location for the variable and will not affect the others. This separation allows you to work on one method at a time without worrying about what's happening in other methods. You don't need to keep the workings of the entire program in your head at once.
+
+But as you know local function actually can access other variables or data in the current function that it is nested.
+
+```c#
+string text = "some data";
+
+void DisplayText()
+{
+Console.WriteLine(text); // NOT SAFE!!
+}
+```
+
+Because the scope of `text` variable is the main method, and because that encompasses the `DisplayText` method, `DisplayText` can reach up to the main method and use its `text` variable. There is a place for this, but it depends of the purpose of the program. Usually programmers want's to keep everything separately, just in case to avoid bugs. Obviously, even if they are separated, there is a way to share variables between methods.
+
+If you are worried about that, or if you want ensure that the method will be separated and won't access any out-of-scope variables, you can use `static` keyword at the front of your method definition.
+
+>[!info] What is `static` keyword?
+>With `static` on your method, if you use a variable in the containing method, the compiler will give you an error. If you are worried about accidental use of variable from outside the method, you might consider using **static** as a safety precaution.
+>
+>```c#
+>static void CountToTen() {  ...   }
+>```
 
 # Passing Data to a Method
