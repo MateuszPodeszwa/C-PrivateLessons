@@ -139,3 +139,112 @@ If you are worried about that, or if you want ensure that the method will be sep
 >```
 
 # Passing Data to a Method
+
+If a method needs data to do its job, it can define special variables called **parameters** to hold this data. Calling a method initialise these variables. Passing variables into a method is especially useful if a method is static and needs to work on user input, or other data from other method. Also, parameters give more flexibility. Based on above example, we can replace both `CountToTen` and `CountToTwenty` methods with a single method `Count`.
+
+```c#
+void Count(int numberToCountTo)
+{
+	for (int current 1; current <= numberToCountTo; current++)
+	{
+		Console.WriteLine(current);
+	}
+}
+```
+
+We initialise variable `numberToCountTo` that can be accessed and modified only inside the method's body.  We can use this parameter like any other variable, as you can see it don't have to be defined inside the method, but instead it is defined between parenthesis, after the method's name.
+
+The calling method automatically initialises them as the call begins by placing those values, inside parenthesis.
+
+```c#
+Count(10);
+Count(20);
+```
+
+The value that the calling method provides in a method call is an *argument*. The first line calls the method and sends the number (value) **10** to the `numberToCountTo` variable inside `Count` method. The second line does exactly the same, but the value is 20. You could also instead of raw data, enter a variable. For example:
+
+```c#
+int number = 10;
+Count(number);
+```
+
+Above code works exactly the same, the variable's value (10) is passed into the `Count` method and then it is initialised as a `numberToCountTo`. So it would be truth if I'd say that:
+
+	number = 20 = numberToCountTu
+
+The only difference is that, the integer variable `number` is not accessible inside the method's body. (assuming that the method is static).
+
+## What're benefits?
+
+With this code, our program will count to 10 and then count to 20 afterward. This `Count` method lets us count to virtually any possible number.
+
+We have seen this mechanic before. `Console.WriteLine` method has a value parameter. We can call this method with `'Hello World'` inside, as a value to pass to.
+
+**Our `Count` method illustrates the key benefits of methods**:
+1. **We can compartmentalise**: When we write our `Count` method, we can forget the rest of the code and focus on the narrow task of counting. Once `Count` has been created and works, we no longer need to think about how it does its job. We've brought a new high-level command into existence.
+2. **We add organisation to the code**: Giving chunk of code a name and separating it from the rest of the code that uses it makes it easier to understand and manage.
+3. **We can reuse it**: We can call the method as many times as we want, instead of copying and pasting the same code all over again.
+
+## Multiple Parameters?
+
+A method can have as many parameters as necessary, and in the matter of fact, these parameters can be different. They can be mix of any possible types such as `int`, `string`, `float`, `arrays` and many more. You could create a method that takes integer array as a input and sort it, and then prints out the results. 
+
+Multiple parameters are defined by listing them in the parentheses, separated by commas:
+
+```c#
+void CountBetween(int start, int end)
+{
+	for (int current = start; current <= end; current++)
+	{
+		Console.WriteLine(current);
+	}
+}
+```
+
+Calling a method that needs multiple parameters is done by putting the values in the corresponding spots in the parentheses, separated by commas:
+
+```c#
+CountBetween(20, 30);
+```
+
+>[!warning] Keep the order!
+>It is important to note that during the call of a method with multiple parameters, the order of the parameters must be kept! For example if the method defines three different parameters such as:
+>```c#
+>void Example(int a, int b, int c) { ... }
+>```
+>The call would looks like:
+>```c#
+>Example(a, b, c);
+>```
+>Where a, b, c could have different names, such as variable1, variable2 and variable3. But the order would be  a, b, c and not b, c, a or c, b, a.
+
+>[!info]- Quick Reminder - Copied Values in Method Calls
+>Assigning the value in one variable to another variable will copy contents of that variable. To illustrate it:
+>```c#
+>int a = 3;
+>int b = a;
+>b = b + 2
+>```
+>The answer will be `5`. This same behaviour holds for a method-call as well:
+>```c#
+>int number = 10;
+>Count(number);
+>``` 
+>When `Count` is invoked, the value currently in `number` is evaluated and copied into `Count` parameter.
+
+# Returning a value from a Method
+
+Until now, we acknowledged that parameters let us send data over to the called method. Even if the method is **static**. But, what if our method do not produce anything else, but a simple bool, string, int etc.. value? We don't want to make the method to `Console.WriteLine` we just want to return a single value. In this case we can use something called **return method** or *non-void method*. 
+
+>[!info] A return value type of method?
+>A return value allows a method to produce a result when it completes. We have seen return values in the past. For example, we are using the return values of the two methods below:
+>```c#
+>string input = Console.ReadLine();
+>int number = Convert.ToInt32(input);
+>```
+
+To make a method return a value, we must do two things. First, we indicate the data type that will be returned, and second, we must state what value is returned.
+
+```c#
+
+```
