@@ -236,7 +236,7 @@ CountBetween(20, 30);
 
 Until now, we acknowledged that parameters let us send data over to the called method. Even if the method is **static**. But, what if our method do not produce anything else, but a simple bool, string, int etc.. value? We don't want to make the method to `Console.WriteLine` we just want to return a single value. In this case we can use something called **return method** or *non-void method*. 
 
->[!info] A return value type of method?
+>[!summary] A return value type of method?
 >A return value allows a method to produce a result when it completes. We have seen return values in the past. For example, we are using the return values of the two methods below:
 >```c#
 >string input = Console.ReadLine();
