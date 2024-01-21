@@ -1,6 +1,9 @@
 ---
 banner: "![[csharp-banner-2.png]]"
 ---
+---
+banner: "![[csharp-banner-2.png]]"
+---
 # The C# Programming Language
 
 - C# is a general purpose programming language. You can do almost anything in it!
