@@ -138,7 +138,10 @@ If you are worried about that, or if you want ensure that the method will be sep
 >static void CountToTen() {  ...   }
 >```
 
-# Passing Data to a Method
+# Returning and Passing Values
+
+In this chapter you will learn that methods can share and take values from the code. 
+## Passing Data to a Method
 
 If a method needs data to do its job, it can define special variables called **parameters** to hold this data. Calling a method initialise these variables. Passing variables into a method is especially useful if a method is static and needs to work on user input, or other data from other method. Also, parameters give more flexibility. Based on above example, we can replace both `CountToTen` and `CountToTwenty` methods with a single method `Count`.
 
@@ -174,7 +177,7 @@ Above code works exactly the same, the variable's value (10) is passed into the 
 
 The only difference is that, the integer variable `number` is not accessible inside the method's body. (assuming that the method is static).
 
-## What're benefits?
+### What're benefits?
 
 With this code, our program will count to 10 and then count to 20 afterward. This `Count` method lets us count to virtually any possible number.
 
@@ -185,7 +188,7 @@ We have seen this mechanic before. `Console.WriteLine` method has a value parame
 2. **We add organisation to the code**: Giving chunk of code a name and separating it from the rest of the code that uses it makes it easier to understand and manage.
 3. **We can reuse it**: We can call the method as many times as we want, instead of copying and pasting the same code all over again.
 
-## Multiple Parameters?
+### Multiple Parameters?
 
 A method can have as many parameters as necessary, and in the matter of fact, these parameters can be different. They can be mix of any possible types such as `int`, `string`, `float`, `arrays` and many more. You could create a method that takes integer array as a input and sort it, and then prints out the results. 
 
@@ -232,7 +235,7 @@ CountBetween(20, 30);
 >``` 
 >When `Count` is invoked, the value currently in `number` is evaluated and copied into `Count` parameter.
 
-# Returning a value from a Method
+## Returning a value from a Method
 
 Until now, we acknowledged that parameters let us send data over to the called method. Even if the method is **static**. But, what if our method do not produce anything else, but a simple bool, string, int etc.. value? We don't want to make the method to `Console.WriteLine` we just want to return a single value. In this case we can use something called **return method** or *non-void method*. 
 
@@ -246,5 +249,68 @@ Until now, we acknowledged that parameters let us send data over to the called m
 To make a method return a value, we must do two things. First, we indicate the data type that will be returned, and second, we must state what value is returned.
 
 ```c#
-
+int ReadNumber()
+{
+	string input = Console.ReadLine();
+	int number = Convert.ToInt32(input);
+	return number;
+}
 ```
+
+Instead of `void` return type of method, this method indicates that it returns an **int** upon completion. We cab then use the returned value when calling `ReadNumber`, as we have done in the past.
+
+```c#
+Console.Write("How high should I count to?: ");
+int chosenNumber = ReadNumber();
+Count(chosenNumber);
+
+void Count(int numberToCountTo)
+{
+	for (int current = start; current <= end; current++)
+	{
+		Console.WriteLine(current);
+	}
+}
+
+int ReadNumber()
+{
+	string input = Console.ReadLine();
+	int number = Convert.ToInt32(input);
+	return number;
+}
+```
+
+### Returning Early
+
+>[!info] Return keyword can be used the same as with IF and LOOP statements.
+> It is possible to include multiple `return` keywords in one method, but at the end of the method's execution: only one return is allowed to actually return a value. 
+
+Whenever a `return` statement is reached, the flow of execution will leave the method immediately, regardless of whatever it is the last line in the method or not. While `return` statements can go anywhere in a method, all pathways musts specify the returned value. By listing a non-void return type, you promise to produce a result. You have to deliver on that promise no matter what `if` statements and loops you encounter.
+
+```c#
+int Count()
+{
+	int countNumber = 0;
+	// Some Code
+	return countNumber;
+}
+```
+
+`void` methods do not return any values, however even **void** methods can still use `return` keyword only to stop execution of the code.
+
+```c#
+void Count(int numberToCountTo)
+{
+	return; 
+	// This code is never executed.
+	for (int current = start; current <= end; current++)
+	{
+		Console.WriteLine(current);
+	}
+}
+```
+
+In C# you cannot return multiple values at one time, but there are many ways that can work around it.
+
+# Method Overloading
+
