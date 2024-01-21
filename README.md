@@ -1,6 +1,6 @@
 # C# Learning Repository
 
-Hello, Mateusz! Delighted to have you exploring my C# learning repository. This space is designed to document my coding journey in C# and the extensive world of .NET frameworks. Let's delve into some additional details about the repository and its branches:
+This space is designed to document my coding journey in C# and the extensive world of .NET frameworks. Let's delve into some additional details about the repository and its branches:
 
 ## Purpose
 
