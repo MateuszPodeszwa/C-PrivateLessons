@@ -314,3 +314,55 @@ In C# you cannot return multiple values at one time, but there are many ways tha
 
 # Method Overloading
 
+Each method you create should het a unique name that describes what it does. However, sometimes you have two methods that do the same job, just with different parameters. It is commonly described as a **method overloading**.
+
+>[!info] Method Overloading
+>Two methods can have the same name only if the parameters of the copied method are distinct from the original method.
+
+A great example is `Console.WriteLine` method, which has many overloads. That is what allows the following to work:
+
+```c#
+Console.WriteLine("Some Text");
+Console.WriteLine(53);
+```
+
+The code will produce *Some Text* and *53* the number. There is simply a overload for integer and string version of `Console.WriteLine` method - this is why there is no error message.
+
+You don't have to worry about compiler, which method it will read. Because it will figure it out based on the parameters provided. It is complex topic and I will not focus on it right now, it is called *overload resolution*.
+
+>[!info]- Many `WriteLine` Overloads
+>`Console.WriteLine` has many different overloads such as:
+>	- Bool
+>	- int
+>	- float
+>	- string
+>And many, many more... The total is about 18.
+
+Unfortunately, local functions, don't allow overloads.
+
+# Simplifying Methods
+
+Methods are great, they make the code to appear cleaner and more reusable. But as you delve deeper into the coding realm you will discover that many methods can even make the code more confusing and to appear longer. It is happening when you enclose a simple expressions into methods such as:
+
+```c#
+int DoubleAddOne(int value)
+{
+	return value * 2 + 1;
+}
+```
+
+This is a simple one line expression! So why it have to take so much space? It makes the code more reusable but it also make it crazy-long. Especially when you introduce even more simple methods.
+
+But there is a solution to this madness. If you want you can represent a method with a single expression, there is another way to write it:
+
+```c#
+int DoubleAddOne(int value) => value * 2 + 1;
+```
+
+Instead of curly braces and a `return` statement, this format uses the arrow operator `'=>'` and the expression to evaluate, followed by a semicolon. The two above versions of `DoubleAddOne` method are the same and do the same job. The only difference is in the size it takes in your code editor.
+
+The first version has a *block body*, when the second has a *expression body*. The `'=>'` is used to indicate that an expression is coming next. We saw it with [[Switches|Switch]] expressions, and we will see it again soon.
+
+>[!warning] Expression body limitations!
+>You can only use *expression body* if the whole method can be represented in a single expression. If you need a statement or many statements, you must use block body.
+
