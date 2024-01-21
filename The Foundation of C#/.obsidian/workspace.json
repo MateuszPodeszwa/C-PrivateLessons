@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6588798b56d1d7e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methods Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ab66a18571384434",
@@ -79,7 +91,7 @@
       {
         "id": "03aed6070770b439",
         "type": "tabs",
-        "dimension": 27.482128673550434,
+        "dimension": 27.482128673550438,
         "children": [
           {
             "id": "60a1efa59a9bdc31",
@@ -111,7 +123,7 @@
       {
         "id": "43cf9f2d4c7f7a00",
         "type": "tabs",
-        "dimension": 19.777601270849875,
+        "dimension": 19.77760127084988,
         "children": [
           {
             "id": "34a515f5232fbb40",
@@ -129,7 +141,7 @@
       {
         "id": "3dac302c9578c15a",
         "type": "tabs",
-        "dimension": 29.626687847498005,
+        "dimension": 29.62668784749801,
         "children": [
           {
             "id": "76c13224a3e9abcf",
@@ -146,7 +158,7 @@
       {
         "id": "b5cea1f51c087ece",
         "type": "tabs",
-        "dimension": 23.11358220810167,
+        "dimension": 23.113582208101672,
         "children": [
           {
             "id": "87d86023c8be23f0",
@@ -197,9 +209,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d0b75f0259908c96",
+  "active": "6588798b56d1d7e3",
   "lastOpenFiles": [
+    "XML Documentation Comments.md",
     "Methods Introduction.md",
+    "Decision Making/Switches.md",
+    "Lists Introduction.md",
+    "Stack Introduction.md",
+    "The Foundations.md",
     "Console/Console Methods/Read Method.md",
     "Console/Console 2.2 Alignment & Formatting.md",
     "Console/Console 2.1 Escape Sequences.md",
@@ -211,12 +228,9 @@
     "Data Types/Arrays/Arrays Introduction.md",
     "Data Types/Arrays/Accessing the Array.md",
     "Console/Console Methods/WriteLine Method.md",
-    "Lists Introduction.md",
-    "Stack Introduction.md",
     "Data Types/Converting Data Types/The TryParse Method.md",
     "Data Types/Bool.md",
     "Console/How to learn.canvas",
-    "The Foundations.md",
     "Images/csharp-banner-2.png",
     "Images/csharp-banner.webp",
     "UntitledIm.md",
@@ -228,8 +242,6 @@
     "Loops/Loops and Looping.md",
     "Decision Making/Ternary Operator.md",
     "Decision Making/IF, ELSE Statements/The ELSE IF Statement.md",
-    "Decision Making/IF, ELSE Statements/The ELSE Statement.md",
-    "Decision Making/IF, ELSE Statements/The IF Statement.md",
     "The .Length Property",
     "Data Types/Arrays",
     "Pasted image 20231211120125.png",
