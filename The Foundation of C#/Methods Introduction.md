@@ -366,3 +366,42 @@ The first version has a *block body*, when the second has a *expression body*. T
 >[!warning] Expression body limitations!
 >You can only use *expression body* if the whole method can be represented in a single expression. If you need a statement or many statements, you must use block body.
 
+# The Basics of Recursion
+
+Methods can call other methods as needed. Sometimes, it even makes sense for a method to call itself. When a method calls itself, it is called recursion. A simple but broken example is this:
+
+```c#
+void Method()
+{
+	Method();
+}
+```
+
+The above code shows why recursion is dangerous and requires extra caution. It is just like a while loop with the `true` attribute. You can call as many methods as you can, in the matter of recursion the best way is to create some protection mechanisms, for example: 
+
+```c#
+void Method()
+{
+	if (userInput == 0)
+		Method
+		
+	Console.WriteLine("Bravo");
+}
+```
+
+Above example loops only if the `userInput` is 0. This is very similar to the [[The While Loops|do while]] loops. But this is a very basic use of recursion, we can do something better!
+
+```c#
+int Factorial(int number)
+{
+	if (number == 1) return 1;
+	return number * Factorial(number - 1);
+}
+```
+
+An example is the *factorial* math operator, represented with an exclamation point. The factorial of a number is the multiplication of all integers smaller than it. 
+
+	3! is 3 x 2 x 1.
+	5! is 5 x 4 x 3 x 2 x 1.
+
+The first line is our base case. When we reach 1, we are done. For larger numbers, we use recursion to compute the factorial of the number smaller than it and then multiply it by the current number. Because we are always subtracting one, we will het one step closer to the base case, each time we call the method recursively. Eventually, we will hit the base case and begin returning, (this code assumes you don't pass in 0 or a negative number).
